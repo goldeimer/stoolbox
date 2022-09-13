@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Giscus from '@giscus/react';
 
 import styles from './index.module.css';
 
@@ -36,6 +37,22 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
+      <script src="https://giscus.app/client.js"
+              data-repo="goldeimer/poopeefy"
+              data-repo-id="R_kgDOH_PhSw"
+              data-category="Q&A"
+              data-category-id="DIC_kwDOH_PhS84CRaE4"
+              data-mapping="pathname"
+              data-strict="0"
+              data-reactions-enabled="1"
+              data-emit-metadata="1"
+              data-input-position="top"
+              data-theme="preferred_color_scheme"
+              data-lang="de"
+              data-loading="lazy"
+              crossorigin="anonymous"
+              async>
+      </script>
     </Layout>
   );
 }
