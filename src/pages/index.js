@@ -40,7 +40,7 @@ export default function Home() {
         <Giscus
           id="comments"
           repo="goldeimer/poopeefy"
-          repoId="R_kgDOH_PhSw"
+          repoId="536076619"
           category="General"
           categoryId="DIC_kwDOH_PhS84CRaE3"
           mapping="title"
