@@ -4,7 +4,6 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import Giscus from '@giscus/react';
 
 import styles from './index.module.css';
 
@@ -37,21 +36,6 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <Giscus
-          id="comments"
-          repo="goldeimer/poopeefy"
-          repoId="536076619"
-          category="General"
-          categoryId="DIC_kwDOH_PhS84CRaE3"
-          mapping="title"
-          term="Component section!"
-          reactionsEnabled="1"
-          emitMetadata="0"
-          inputPosition="top"
-          theme="preferred_color_scheme"
-          lang="de"
-          loading="lazy"
-        />
       </main>
     </Layout>
   );

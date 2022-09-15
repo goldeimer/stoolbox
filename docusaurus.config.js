@@ -46,7 +46,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        theme: {          customCss: require.resolve('./src/css/custom.css'),
+        theme: {  customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
@@ -55,6 +55,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+      id: 'support_us',
+      content:
+        'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+      backgroundColor: '#fafbfc',
+      textColor: '#091E42',
+      isCloseable: false,
+    },
       navbar: {
         title: 'PooPeeFY',
         logo: {
@@ -68,9 +76,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { 
-	    to: '/blog', 
-	    label: 'Blog', 
+          {
+	    to: '/blog',
+	    label: 'Blog',
             position: 'left'
 	  },
 	  {
