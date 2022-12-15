@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Working Title: PooPeeFY',
   tagline: 'Poo & Pee for yourself',
-  url: 'https://poopeefy.de',
-  baseUrl: '/poopeefy/',
+  url: 'https://stoolbox.org',
+  baseUrl: '/stoolbox/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
