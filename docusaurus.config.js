@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'goldeimer', // Usually your GitHub org/user name.
-  projectName: 'poopeefy', // Usually your repo name.
+  projectName: 'stoolbox', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -64,9 +64,9 @@ const config = {
       isCloseable: false,
     },
       navbar: {
-        title: 'PooPeeFY',
+        title: 'sToolbox',
         logo: {
-          alt: 'PooPeeFy Logo',
+          alt: 'sToolbox Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -86,7 +86,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/goldeimer/poopeefy',
+            href: 'https://github.com/goldeimer/stoolbox',
             label: 'GitHub',
             position: 'right',
           },
@@ -130,7 +130,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/goldeimer/poopeefy',
+                href: 'https://github.com/goldeimer/stoolbox',
               },
             ],
           },
