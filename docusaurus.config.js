@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Working Title: PooPeeFY',
-  tagline: 'Poo & Pee for yourself',
+  title: 'sToolbox',
+  tagline: 'powered by Goldeimer',
   url: 'https://stoolbox.org',
   baseUrl: '/stoolbox/',
   onBrokenLinks: 'throw',
