@@ -9,7 +9,7 @@ const config = {
   title: 'sToolbox',
   tagline: 'powered by Goldeimer',
   url: 'https://stoolbox.org',
-  baseUrl: '/',
+  baseUrl: '/stoolbox',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -94,6 +94,27 @@ const config = {
       },
       footer: {
         style: 'dark',
+    	logo: {
+		alt: 'Goldeimer gGmbH Logo',
+		src: 'img/goldeimer_logo.png',
+		href: 'https://goldeimer.com',
+		width: 160,
+		height: 51,
+	      },
+    	logo: {
+		alt: 'Netsan Logo',
+		src: 'img/netsan_logo.png',
+		href: 'https://www.netsan.org/',
+		width: 160,
+		height: 51,
+	      },
+    	logo: {
+		alt: 'DSEE Logo',
+		src: 'img/dsee_logo.png',
+		href: 'https://www.deutsche-stiftung-engagement-und-ehrenamt.de/',
+		width: 160,
+		height: 51,
+	      },
         links: [
           {
             title: 'Docs',
@@ -105,32 +126,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Informationen',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Impressum',
+                to: 'https://goldeimer.de/policies/legal-notice',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/goldeimer/stoolbox',
+                label: 'Datenschutzerklärung',
+                href: 'https://goldeimer.de/policies/privacy-policy',
               },
             ],
           },
