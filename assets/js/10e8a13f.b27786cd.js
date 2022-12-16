@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstoolbox=self.webpackChunkstoolbox||[]).push([[3109],{6080:o=>{o.exports=JSON.parse('{"permalink":"/stoolbox/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
