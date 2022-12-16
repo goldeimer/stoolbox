@@ -94,19 +94,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-	{
-	      html: `
-		<a href="https://goldeimer.com" target="_blank" rel="noreferrer noopener" aria-label="Goldeimer gGmbH Logo">
-		  <img src="img/goldeimer_logo.png" alt="Goldeimer gGmbH Logo" />
-		</a>
-		<a href="https://www.netsan.org/" target="_blank" rel="noreferrer noopener" aria-label="Netsan e.V. Logo">
-		  <img src="img/netsan_logo.png" alt="Netsan e.V. Logo" />
-		</a>
-		<a href="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/" target="_blank" rel="noreferrer noopener" aria-label="Deutsche-Stiftung-Engagement-und-Ehrenamt Logo">
-		  <img src="img/dsee_logo.png" alt="Deutsche-Stiftung-Engagement-und-Ehrenamt Logo" />
-		</a>
-	      `,
-    	},
         links: [
           {
             title: 'Docs',
@@ -130,6 +117,35 @@ const config = {
               },
             ],
           },
+	{
+	  title: 'Powered by',
+	  items: [
+	    {
+	      html: `
+		<a href="https://goldeimer.com" target="_blank" rel="noreferrer noopener" aria-label="Goldeimer gGmbH Logo">
+		  <img src="img/goldeimer_logo.png" alt="Goldeimer gGmbH Logo" />
+		</a>
+		<a href="https://www.netsan.org/" target="_blank" rel="noreferrer noopener" aria-label="Netsan e.V. Logo">
+		  <img src="img/netsan_logo.png" alt="Netsan e.V. Logo" />
+		</a>
+	      `,
+	    },
+	  ],
+	},
+	{
+	  title: 'Gefördert durch',
+	  items: [
+	    {
+	      html: `
+		<a href="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/" target="_blank" rel="noreferrer noopener" aria-label="Deutsche-Stiftung-Engagement-und-Ehrenamt Logo">
+		  <img src="img/dsee_logo.png" alt="Deutsche-Stiftung-Engagement-und-Ehrenamt Logo" />
+		</a>
+	      `,
+	    },
+	  ],
+	},
+
+
         ],
         copyright: `sToolbox © ${new Date().getFullYear()} powered by Goldeimer gGmbH & Netzwerk für nachhaltige Sanitärsysteme e.V.`,
       },
