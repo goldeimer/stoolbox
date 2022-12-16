@@ -1,41 +1,23 @@
-# Website
+# Readme
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Repository for Open-Source-Hardware Dry Toilets / Composting toilets. Feel free to contribute. This Project is powered by Goldeimer
 
-### Installation
+What are composting toilets?
 
-```
-$ yarn
-```
+Composting toilets are dry toilets that remove excrement and other organic waste through the process of composting. Composting is a natural process in which microorganisms such as bacteria and fungi decompose organic waste and turn it into compost. The resulting compost can then be used as fertilizer for gardens and plants.
 
-### Local Development
+Composting toilets consist of a seat mounted over a collection container for the excrement. After use, a layer of dry material, such as sawdust or straw, is placed on top of the excrement to reduce odor and absorb moisture. The collection container is emptied periodically and the contents transferred to a compost bin or pile where the composting process takes place.
 
-```
-$ yarn start
-```
+Composting toilets are environmentally friendly because they reduce water consumption and process organic waste into useful fertilizer. They are particularly suitable for rural areas and buildings without access to a sewer system.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+*german*
 
-### Build
+Repository für Open-Source-Hardware Trockentoiletten / Komposttoiletten. Du kannst gerne etwas beitragen. Dieses Projekt wird von Goldeimer unterstützt.
 
-```
-$ yarn build
-```
+Was sind Komposttoiletten?
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Komposttoiletten sind Trockentoiletten, die die Exkremente und andere organische Abfälle durch den Prozess der Kompostierung entfernen. Kompostierung ist ein natürlicher Prozess, bei dem Mikroorganismen wie Bakterien und Pilze die organischen Abfälle zersetzen und in Kompost umwandeln. Der entstehende Kompost kann dann als Düngemittel für Gärten und Pflanzen verwendet werden.
 
-### Deployment
+Komposttoiletten bestehen aus einem Sitz, der über einem Auffangbehälter für die Exkremente montiert ist. Nach der Benutzung wird eine Schicht Trockenmaterial, wie beispielsweise Sägemehl oder Stroh, auf die Exkremente gelegt, um den Geruch zu reduzieren und die Feuchtigkeit aufzusaugen. Der Auffangbehälter wird regelmäßig geleert und der Inhalt in einen Kompostbehälter oder -haufen umgefüllt, wo der Kompostierungsprozess stattfindet.
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Komposttoiletten sind umweltfreundlich, da sie den Wasserverbrauch reduzieren und organische Abfälle zu nützlichem Düngemittel verarbeiten. Sie eignen sich besonders für ländliche Gebiete und Gebäude ohne Zugang zu einer Kanalisation.

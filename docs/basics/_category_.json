@@ -1,11 +1,11 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Basics",
   "position": 2,
   "collapsible": true,
   "collapsed": false,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Here you will find the basics about composting toilets."
   }
 }
