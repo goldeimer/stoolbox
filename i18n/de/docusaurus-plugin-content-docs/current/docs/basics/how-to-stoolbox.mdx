@@ -1,0 +1,217 @@
+---
+id: how-to-stoolbox
+title: How to sToolbox
+hide_title: false
+hide_table_of_contents: false
+sidebar_label: How to sToolbox
+sidebar_position: 3
+custom_edit_url: https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md
+description: Wie man die Dokumentation für die sToolbox oder Docusaurus schreibt
+keywords:
+  - docs
+  - docusaurus
+image: https://i.imgur.com/mErPwqL.png
+slug: /how-to-stoolbox
+last_update:
+  date: 12/16/22
+  author: Frederik Gottemeyer
+---
+
+import Giscus from '@site/src/components/HomepageFeatures/giscus';
+
+# Wie man eine Dokumentation für die sToolbox (powered by Goldeimer) oder Docusaurus schreibt.
+
+## Intro and setup
+
+### GitHub-Projekt
+
+Das Git-Repository ist ein Projekt im Goldeimer GitHub. Um Änderungen vornehmen zu können, benötigst du Zugriff auf das [sToolbox](https://github.com/goldeimer/stoolbox) Github Projekt (Repository).
+
+### Repository
+
+Alle Dateien, die diese Toolbox bilden, werden in einem Git-Repository gespeichert. Dies dient der Nachverfolgung von Änderungen. Wenn du mit Git-Repositories keine Übung hast, Keine Angst! Du musst dich nicht sonderlich gut mit Git-Repository auskennen, um deine Änderungen speichern zu können.
+
+### Übertragen von Änderungen
+
+Jedes Mal, wenn du etwas im Repository speicherst, überträgst du die vorgenommenen Änderungen. Du gibst den Änderungen einen Namen, der die von dir vorgenommenen Änderungen beschreibt. Zum Beispiel "Dokumentation über die internen Regeln der Goldeimer Toolbox hinzugefügt". Jedes Mal, wenn ein Commit zum Repository hinzugefügt wird, wird die Toolbox-Website automatisch neu gebaut, so dass deine Änderungen sichtbar sind. Dieser Rebuild der Website dauert immer ein paar Minuten.
+
+## Wie erweitere oder ändere ich die sToolbox
+
+### Markdown
+
+Dokumentation und Seiten in der Goldeimer Toolbox / docusaurus sind in _markdown_ geschrieben. Markdown ist eine leichtgewichtige Auszeichnungssprache für die Erstellung von formatiertem Text in einem Klartext-Editor. Ein Cheat Sheet für Markdown findest du [hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) . Dieses Cheat Sheet hilft dir dabei, Text fett zu formatieren, Überschriften zu erstellen und Links und Bilder einzufügen.
+
+###  Über GitHub
+
+Du kannst Dokumentationen auf Docusaurus bzw der sToolbox erstellen und bearbeiten, ohne eine Software installieren zu müssen.
+
+1. Gehe auf [sToolbox](https://github.com/goldeimer/stoolbox)
+2. Auf der Seite siehst du alle Dateien, die zusammen die sToolbox bilden. Die Markdown-Dateien, die die Dokumentation erstellen, befinden sich im Ordner `docs`. Die Unterordner in diesem Ordner sind die Kategorien in der oberen Navigationsleiste.
+3. Du kannst neue Dateien erstellen oder bestehende Dateien bearbeiten. Wechsle vom  **Bearbeitungsmodus** in den **Preview Markdown** Modus, um deine Änderungen zu überprüfen.
+4. Auf der linken Seite der Ordnerstruktur befinden sich drei Schaltflächen. Nachdem du deine Änderungen vorgenommen hast, kannst du deine Änderungen **überprüfen** und, wenn alles in Ordnung ist, kannst du deine Änderungen an das Repository **übertragen**.
+5.  Gib eine **Commit message** ein, in der du deine Änderungen beschreibst, und stelle sicher, dass du **commit to main branch** ausgewählt hast.
+6.  Klick anschließend auf den **Commit** branch
+
+### Über einen Text-Editor auf dem lokalen Computer
+
+coming soon: Hier erfährst du bald, wie du die Dokumentation von deinem Computer aus erstellen kannst.
+
+### Dos and Don'ts
+
+coming soon: Welche Begriffe verwenden wir häufig?
+
+# Erste Schritte mit der Goldeimer Toolbox
+
+## Bearbeiten einer bestehenden Doku-Seite
+
+
+Bearbeite Dokumente, indem du zu `docs/` navigierst und das entsprechende Dokument bearbeitest:
+
+`docs/doc-to-be-edited.md`
+
+```markdown
+---
+id: page-needs-edit
+title: This Doc Needs To Be Edited
+---
+
+Edit me...
+```
+
+Für weitere Informationen über docs, klick [hier](https://docusaurus.io/docs/en/navigation)
+
+
+## Editieren eines bereits erstellten Blog Posts
+
+Bearbeite Blogbeiträge, indem du zu `Website/Blog` navigierst und den entsprechenden Beitrag bearbeitest:
+
+`website/blog/post-to-be-edited.md`
+
+```markdown
+---
+id: post-needs-edit
+title: This Blog Post Needs To Be Edited
+---
+
+Edit me...
+```
+
+Für weitere Informationen über blog posts, klick [hier](https://docusaurus.io/docs/en/adding-blog)
+
+## Content hinzufügen
+
+### Hinzufügen einer neuen Doku-Seite zu einer bestehenden Seitenleiste
+
+1.  Erstelle die Doku als neue Markdown-Datei in `/docs`, zum Beispiel `docs/newly-created-doc.md`:
+
+```md
+---
+id: newly-created-doc
+title: This Doc Needs To Be Edited
+---
+
+My new content here..
+```
+
+1.  Verweise auf die ID des Dokuments in einer bestehenden Seitenleiste in `website/sidebars.json`:
+
+```javascript
+// Add newly-created-doc to the Getting Started category of docs
+{
+  "docs": {
+    "Getting Started": [
+      "quick-start",
+      "newly-created-doc" // new doc here
+    ],
+    ...
+  },
+  ...
+}
+```
+
+Für weitere Informationen über pages, klick [hier](https://docusaurus.io/docs/en/navigation)
+
+### Hinzufügen neuer Blog-Posts
+
+1.  Stelle sicher, dass in der `website/siteConfig.js` ein Header-Link zu deinem Blog vorhanden ist:
+
+
+`website/siteConfig.js`
+
+```javascript
+headerLinks: [
+    ...
+    { blog: true, label: 'Blog' },
+    ...
+]
+```
+
+2.  Erstelle den Blogbeitrag mit dem Format `YYYY-MM-DD-My-Blog-Post-Title.md` in `website/blog`:
+
+
+`website/blog/2018-05-21-New-Blog-Post.md`
+
+```markdown
+---
+author: Frank Li
+authorURL: https://twitter.com/foobarbaz
+authorFBID: 503283835
+title: New Blog Post
+---
+
+Lorem Ipsum...
+```
+
+Für weitere Informationen über blog posts, klick [hier](https://docusaurus.io/docs/en/adding-blog)
+
+### Hinzufügen von Elementen zur oberen Navigationsleiste deiner Website
+
+
+1.  Füge Links zu Dokumenten, benutzerdefinierten Seiten oder externen Links hinzu, indem du das Feld headerLinks in `website/siteConfig.js` bearbeitest:
+
+
+`website/siteConfig.js`
+
+```javascript
+{
+  headerLinks: [
+    ...
+    /* you can add docs */
+    { doc: 'my-examples', label: 'Examples' },
+    /* you can add custom pages */
+    { page: 'help', label: 'Help' },
+    /* you can add external links */
+    { href: 'https://github.com/facebook/docusaurus', label: 'GitHub' },
+    ...
+  ],
+  ...
+}
+```
+
+Für weitere Informationen über die navigation, klick [hier](https://docusaurus.io/docs/en/navigation)
+
+### Hinzufügen von benutzerdefinierten Seiten
+
+1.  Docusaurus verwendet React-Komponenten, um Seiten zu erstellen. Die Komponenten werden als .js-Dateien in `website/pages/de` gespeichert:
+2.  Wenn du möchtest, dass deine Seite in der Kopfzeile deiner Navigation angezeigt wird, musst du die Datei `website/siteConfig.js` aktualisieren, um das Element `headerLinks` hinzuzufügen:
+
+`website/siteConfig.js`
+
+```javascript
+{
+  headerLinks: [
+    ...
+    { page: 'my-new-custom-page', label: 'My New Custom Page' },
+    ...
+  ],
+  ...
+}
+```
+
+Für weitere Informationen über custom pages, klick[hier](https://docusaurus.io/docs/en/custom-pages).
+
+## Komplette Docusaurus Documentation
+
+Die komplette Docusaurus Docu findest du auf ihrer [website](https://docusaurus.io/).
+
+<Giscus />

@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/stoolbox/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/stoolbox/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "basics/basics",
+              "path": "/stoolbox/docs/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/fermentation-composting",
+              "path": "/stoolbox/docs/fermentation-composting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/how-to-stoolbox",
+              "path": "/stoolbox/docs/how-to-stoolbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/markdown-features",
+              "path": "/stoolbox/docs/basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/why-open-source-hardware",
+              "path": "/stoolbox/docs/why-open-source-hardware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "instructions/goldeimer-diy",
+              "path": "/stoolbox/docs/goldeimer-diy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "instructions/trenneinsatz-diy",
+              "path": "/stoolbox/docs/instructions/trenneinsatz-diy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/stoolbox/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/basics",
+              "path": "/stoolbox/docs/category/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/instructions",
+              "path": "/stoolbox/docs/category/instructions",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/stoolbox/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

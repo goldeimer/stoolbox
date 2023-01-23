@@ -1,0 +1,243 @@
+{
+  "/stoolbox/__docusaurus/debug-7b4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---stoolbox-docusaurus-debug-2-d-3-dda"
+    }
+  },
+  "/stoolbox/__docusaurus/debug/config-953": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---stoolbox-docusaurus-debug-2-d-3-dda"
+    }
+  },
+  "/stoolbox/__docusaurus/debug/content-9cb": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---stoolbox-docusaurus-debug-2-d-3-dda"
+    },
+    "allContent": "allContent---stoolbox-docusaurus-debug-content-246-dc0"
+  },
+  "/stoolbox/__docusaurus/debug/globalData-ac5": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---stoolbox-docusaurus-debug-2-d-3-dda"
+    }
+  },
+  "/stoolbox/__docusaurus/debug/metadata-5f7": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---stoolbox-docusaurus-debug-2-d-3-dda"
+    }
+  },
+  "/stoolbox/__docusaurus/debug/registry-a96": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---stoolbox-docusaurus-debug-2-d-3-dda"
+    }
+  },
+  "/stoolbox/__docusaurus/debug/routes-478": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---stoolbox-docusaurus-debug-2-d-3-dda"
+    }
+  },
+  "/stoolbox/blog-d07": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "items": [
+      {
+        "content": "content---stoolbox-blog-766-626"
+      },
+      {
+        "content": "content---stoolbox-blogf-4-f-00f"
+      },
+      {
+        "content": "content---stoolbox-blog-871-a32"
+      },
+      {
+        "content": "content---stoolbox-blog-925-be6"
+      }
+    ],
+    "metadata": "metadata---stoolbox-blog-10-e-2f6"
+  },
+  "/stoolbox/blog/archive-217": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "archive": "archive---stoolbox-blog-archivec-25-e68"
+  },
+  "/stoolbox/blog/first-blog-post-77a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "content": "content---stoolbox-blog-first-blog-poste-27-8ab"
+  },
+  "/stoolbox/blog/long-blog-post-7ad": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "content": "content---stoolbox-blog-long-blog-post-736-026"
+  },
+  "/stoolbox/blog/mdx-blog-post-f34": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "content": "content---stoolbox-blog-mdx-blog-post-593-5e1"
+  },
+  "/stoolbox/blog/tags-e62": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "tags": "tags---stoolbox-blog-tagsc-6-c-f65"
+  },
+  "/stoolbox/blog/tags/docusaurus-8a3": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "items": [
+      {
+        "content": "content---stoolbox-blog-766-626"
+      },
+      {
+        "content": "content---stoolbox-blogf-4-f-00f"
+      },
+      {
+        "content": "content---stoolbox-blog-871-a32"
+      },
+      {
+        "content": "content---stoolbox-blog-925-be6"
+      }
+    ],
+    "tag": "tag---stoolbox-blog-tags-docusaurusc-11-c58",
+    "listMetadata": "listMetadata---stoolbox-blog-tags-docusaurus-66-c-d38"
+  },
+  "/stoolbox/blog/tags/facebook-db4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "items": [
+      {
+        "content": "content---stoolbox-blog-766-626"
+      }
+    ],
+    "tag": "tag---stoolbox-blog-tags-facebook-32-b-a5f",
+    "listMetadata": "listMetadata---stoolbox-blog-tags-facebook-7-bf-cc9"
+  },
+  "/stoolbox/blog/tags/hello-ad2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "items": [
+      {
+        "content": "content---stoolbox-blog-766-626"
+      },
+      {
+        "content": "content---stoolbox-blog-871-a32"
+      }
+    ],
+    "tag": "tag---stoolbox-blog-tags-hellocdb-d3e",
+    "listMetadata": "listMetadata---stoolbox-blog-tags-hello-979-dff"
+  },
+  "/stoolbox/blog/tags/hola-6cd": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "items": [
+      {
+        "content": "content---stoolbox-blog-925-be6"
+      }
+    ],
+    "tag": "tag---stoolbox-blog-tags-hola-7-c-7-352",
+    "listMetadata": "listMetadata---stoolbox-blog-tags-hola-0-ad-50e"
+  },
+  "/stoolbox/blog/welcome-274": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---stoolbox-blog-1-a-7-501"
+    },
+    "sidebar": "sidebar---stoolbox-blog-814-5be",
+    "content": "content---stoolbox-blog-welcomed-9-f-56a"
+  },
+  "/stoolbox/markdown-page-c1c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---stoolbox-markdown-page-24-d-223"
+    },
+    "content": "content---stoolbox-markdown-page-393-815"
+  },
+  "/stoolbox/docs-8d2": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---stoolbox-docs-7-b-7-c11"
+    },
+    "versionMetadata": "versionMetadata---stoolbox-docs-935-b84"
+  },
+  "/stoolbox/docs/basics-e1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-basics-94-e-775"
+  },
+  "/stoolbox/docs/basics/markdown-features-a4a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-basics-markdown-features-557-619"
+  },
+  "/stoolbox/docs/category/basics-964": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---stoolbox-docs-category-basicsd-95-3b0"
+  },
+  "/stoolbox/docs/category/instructions-8de": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---stoolbox-docs-category-instructionsb-20-e75"
+  },
+  "/stoolbox/docs/fermentation-composting-040": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-fermentation-compostinge-8-c-009"
+  },
+  "/stoolbox/docs/goldeimer-diy-22b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-goldeimer-diy-5-c-7-3f8"
+  },
+  "/stoolbox/docs/how-to-stoolbox-821": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-how-to-stoolboxfcc-77a"
+  },
+  "/stoolbox/docs/instructions/trenneinsatz-diy-a72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-instructions-trenneinsatz-diy-859-ae2"
+  },
+  "/stoolbox/docs/intro-40c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-intro-0-e-3-9b0"
+  },
+  "/stoolbox/docs/why-open-source-hardware-87a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---stoolbox-docs-why-open-source-hardware-2-c-3-f67"
+  },
+  "/stoolbox/-94c": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---stoolbox-markdown-page-24-d-223"
+    },
+    "config": "config---stoolbox-5-e-9-266"
+  }
+}
