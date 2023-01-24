@@ -7,7 +7,7 @@ export default {
   "title": "sToolbox",
   "tagline": "powered by Goldeimer",
   "url": "https://stoolbox.org",
-  "baseUrl": "/stoolbox/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
