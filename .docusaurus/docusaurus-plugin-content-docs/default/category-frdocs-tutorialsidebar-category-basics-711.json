@@ -1,0 +1,16 @@
+{
+  "title": "Basics",
+  "description": "Here you will find the basics about composting toilets.",
+  "slug": "/category/basics",
+  "permalink": "/fr/docs/category/basics",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/fr/docs/intro"
+    },
+    "next": {
+      "title": "Basics",
+      "permalink": "/fr/docs/basics"
+    }
+  }
+}

@@ -3,7 +3,7 @@
   "id": "instructions/goldeimer-diy",
   "title": "Goldeimers DIY Trockentoilette",
   "description": "Bauanleitung für eine DIY Trockentoilette",
-  "source": "@site/docs/instructions/goldeimer-diy.md",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/instructions/goldeimer-diy.md",
   "sourceDirName": "instructions",
   "slug": "/goldeimer-diy",
   "permalink": "/fr/docs/goldeimer-diy",

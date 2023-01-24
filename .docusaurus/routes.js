@@ -3,169 +3,169 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/stoolbox/__docusaurus/debug',
-    component: ComponentCreator('/stoolbox/__docusaurus/debug', '7b4'),
+    path: '/fr/__docusaurus/debug',
+    component: ComponentCreator('/fr/__docusaurus/debug', '288'),
     exact: true
   },
   {
-    path: '/stoolbox/__docusaurus/debug/config',
-    component: ComponentCreator('/stoolbox/__docusaurus/debug/config', '953'),
+    path: '/fr/__docusaurus/debug/config',
+    component: ComponentCreator('/fr/__docusaurus/debug/config', '701'),
     exact: true
   },
   {
-    path: '/stoolbox/__docusaurus/debug/content',
-    component: ComponentCreator('/stoolbox/__docusaurus/debug/content', '9cb'),
+    path: '/fr/__docusaurus/debug/content',
+    component: ComponentCreator('/fr/__docusaurus/debug/content', '596'),
     exact: true
   },
   {
-    path: '/stoolbox/__docusaurus/debug/globalData',
-    component: ComponentCreator('/stoolbox/__docusaurus/debug/globalData', 'ac5'),
+    path: '/fr/__docusaurus/debug/globalData',
+    component: ComponentCreator('/fr/__docusaurus/debug/globalData', '06b'),
     exact: true
   },
   {
-    path: '/stoolbox/__docusaurus/debug/metadata',
-    component: ComponentCreator('/stoolbox/__docusaurus/debug/metadata', '5f7'),
+    path: '/fr/__docusaurus/debug/metadata',
+    component: ComponentCreator('/fr/__docusaurus/debug/metadata', 'a7a'),
     exact: true
   },
   {
-    path: '/stoolbox/__docusaurus/debug/registry',
-    component: ComponentCreator('/stoolbox/__docusaurus/debug/registry', 'a96'),
+    path: '/fr/__docusaurus/debug/registry',
+    component: ComponentCreator('/fr/__docusaurus/debug/registry', '51b'),
     exact: true
   },
   {
-    path: '/stoolbox/__docusaurus/debug/routes',
-    component: ComponentCreator('/stoolbox/__docusaurus/debug/routes', '478'),
+    path: '/fr/__docusaurus/debug/routes',
+    component: ComponentCreator('/fr/__docusaurus/debug/routes', '48c'),
     exact: true
   },
   {
-    path: '/stoolbox/blog',
-    component: ComponentCreator('/stoolbox/blog', 'd07'),
+    path: '/fr/blog',
+    component: ComponentCreator('/fr/blog', '89b'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/archive',
-    component: ComponentCreator('/stoolbox/blog/archive', '217'),
+    path: '/fr/blog/archive',
+    component: ComponentCreator('/fr/blog/archive', 'b1c'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/first-blog-post',
-    component: ComponentCreator('/stoolbox/blog/first-blog-post', '77a'),
+    path: '/fr/blog/first-blog-post',
+    component: ComponentCreator('/fr/blog/first-blog-post', '228'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/long-blog-post',
-    component: ComponentCreator('/stoolbox/blog/long-blog-post', '7ad'),
+    path: '/fr/blog/long-blog-post',
+    component: ComponentCreator('/fr/blog/long-blog-post', '87a'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/mdx-blog-post',
-    component: ComponentCreator('/stoolbox/blog/mdx-blog-post', 'f34'),
+    path: '/fr/blog/mdx-blog-post',
+    component: ComponentCreator('/fr/blog/mdx-blog-post', 'fb6'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/tags',
-    component: ComponentCreator('/stoolbox/blog/tags', 'e62'),
+    path: '/fr/blog/tags',
+    component: ComponentCreator('/fr/blog/tags', '2f7'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/tags/docusaurus',
-    component: ComponentCreator('/stoolbox/blog/tags/docusaurus', '8a3'),
+    path: '/fr/blog/tags/docusaurus',
+    component: ComponentCreator('/fr/blog/tags/docusaurus', '39d'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/tags/facebook',
-    component: ComponentCreator('/stoolbox/blog/tags/facebook', 'db4'),
+    path: '/fr/blog/tags/facebook',
+    component: ComponentCreator('/fr/blog/tags/facebook', '47b'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/tags/hello',
-    component: ComponentCreator('/stoolbox/blog/tags/hello', 'ad2'),
+    path: '/fr/blog/tags/hello',
+    component: ComponentCreator('/fr/blog/tags/hello', '16c'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/tags/hola',
-    component: ComponentCreator('/stoolbox/blog/tags/hola', '6cd'),
+    path: '/fr/blog/tags/hola',
+    component: ComponentCreator('/fr/blog/tags/hola', 'b26'),
     exact: true
   },
   {
-    path: '/stoolbox/blog/welcome',
-    component: ComponentCreator('/stoolbox/blog/welcome', '274'),
+    path: '/fr/blog/welcome',
+    component: ComponentCreator('/fr/blog/welcome', '952'),
     exact: true
   },
   {
-    path: '/stoolbox/markdown-page',
-    component: ComponentCreator('/stoolbox/markdown-page', 'c1c'),
+    path: '/fr/markdown-page',
+    component: ComponentCreator('/fr/markdown-page', '42e'),
     exact: true
   },
   {
-    path: '/stoolbox/docs',
-    component: ComponentCreator('/stoolbox/docs', '8d2'),
+    path: '/fr/docs',
+    component: ComponentCreator('/fr/docs', '98b'),
     routes: [
       {
-        path: '/stoolbox/docs/basics',
-        component: ComponentCreator('/stoolbox/docs/basics', 'e1c'),
+        path: '/fr/docs/basics',
+        component: ComponentCreator('/fr/docs/basics', 'f5e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/basics/markdown-features',
-        component: ComponentCreator('/stoolbox/docs/basics/markdown-features', 'a4a'),
+        path: '/fr/docs/basics/markdown-features',
+        component: ComponentCreator('/fr/docs/basics/markdown-features', '0fc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/category/basics',
-        component: ComponentCreator('/stoolbox/docs/category/basics', '964'),
+        path: '/fr/docs/category/basics',
+        component: ComponentCreator('/fr/docs/category/basics', '68c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/category/instructions',
-        component: ComponentCreator('/stoolbox/docs/category/instructions', '8de'),
+        path: '/fr/docs/category/instructions',
+        component: ComponentCreator('/fr/docs/category/instructions', 'f23'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/fermentation-composting',
-        component: ComponentCreator('/stoolbox/docs/fermentation-composting', '040'),
+        path: '/fr/docs/fermentation-composting',
+        component: ComponentCreator('/fr/docs/fermentation-composting', 'f01'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/goldeimer-diy',
-        component: ComponentCreator('/stoolbox/docs/goldeimer-diy', '22b'),
+        path: '/fr/docs/goldeimer-diy',
+        component: ComponentCreator('/fr/docs/goldeimer-diy', 'cc7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/how-to-stoolbox',
-        component: ComponentCreator('/stoolbox/docs/how-to-stoolbox', '821'),
+        path: '/fr/docs/how-to-stoolbox',
+        component: ComponentCreator('/fr/docs/how-to-stoolbox', '248'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/instructions/trenneinsatz-diy',
-        component: ComponentCreator('/stoolbox/docs/instructions/trenneinsatz-diy', 'a72'),
+        path: '/fr/docs/instructions/trenneinsatz-diy',
+        component: ComponentCreator('/fr/docs/instructions/trenneinsatz-diy', 'c9d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/intro',
-        component: ComponentCreator('/stoolbox/docs/intro', '40c'),
+        path: '/fr/docs/intro',
+        component: ComponentCreator('/fr/docs/intro', 'f86'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/stoolbox/docs/why-open-source-hardware',
-        component: ComponentCreator('/stoolbox/docs/why-open-source-hardware', '87a'),
+        path: '/fr/docs/why-open-source-hardware',
+        component: ComponentCreator('/fr/docs/why-open-source-hardware', '10c'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/stoolbox/',
-    component: ComponentCreator('/stoolbox/', '94c'),
+    path: '/fr/',
+    component: ComponentCreator('/fr/', '60d'),
     exact: true
   },
   {

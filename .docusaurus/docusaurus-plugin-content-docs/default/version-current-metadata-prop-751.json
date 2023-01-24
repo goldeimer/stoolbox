@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Tutorial Intro",
-        "href": "/stoolbox/docs/intro",
+        "href": "/fr/docs/intro",
         "docId": "intro"
       },
       {
@@ -25,35 +25,35 @@
           {
             "type": "link",
             "label": "Basics",
-            "href": "/stoolbox/docs/basics",
+            "href": "/fr/docs/basics",
             "docId": "basics/basics"
           },
           {
             "type": "link",
             "label": "Fermentation & Composting",
-            "href": "/stoolbox/docs/fermentation-composting",
+            "href": "/fr/docs/fermentation-composting",
             "docId": "basics/fermentation-composting"
           },
           {
             "type": "link",
             "label": "Why Open-Source-Hardware",
-            "href": "/stoolbox/docs/why-open-source-hardware",
+            "href": "/fr/docs/why-open-source-hardware",
             "docId": "basics/why-open-source-hardware"
           },
           {
             "type": "link",
             "label": "How to sToolbox",
-            "href": "/stoolbox/docs/how-to-stoolbox",
+            "href": "/fr/docs/how-to-stoolbox",
             "docId": "basics/how-to-stoolbox"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/stoolbox/docs/basics/markdown-features",
+            "href": "/fr/docs/basics/markdown-features",
             "docId": "basics/markdown-features"
           }
         ],
-        "href": "/stoolbox/docs/category/basics"
+        "href": "/fr/docs/category/basics"
       },
       {
         "type": "category",
@@ -64,17 +64,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/stoolbox/docs/instructions/trenneinsatz-diy",
+            "href": "/fr/docs/instructions/trenneinsatz-diy",
             "docId": "instructions/trenneinsatz-diy"
           },
           {
             "type": "link",
             "label": "Goldeimer DIY",
-            "href": "/stoolbox/docs/goldeimer-diy",
+            "href": "/fr/docs/goldeimer-diy",
             "docId": "instructions/goldeimer-diy"
           }
         ],
-        "href": "/stoolbox/docs/category/instructions"
+        "href": "/fr/docs/category/instructions"
       }
     ]
   },

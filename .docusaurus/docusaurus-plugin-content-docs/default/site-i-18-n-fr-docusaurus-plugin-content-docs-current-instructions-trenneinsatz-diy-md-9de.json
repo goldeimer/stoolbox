@@ -3,7 +3,7 @@
   "id": "instructions/trenneinsatz-diy",
   "title": "Manage Docs Versions",
   "description": "Docusaurus can manage multiple versions of your docs.",
-  "source": "@site/docs/instructions/trenneinsatz-diy.md",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/instructions/trenneinsatz-diy.md",
   "sourceDirName": "instructions",
   "slug": "/instructions/trenneinsatz-diy",
   "permalink": "/fr/docs/instructions/trenneinsatz-diy",

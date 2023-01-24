@@ -3,7 +3,7 @@
   "id": "basics/fermentation-composting",
   "title": "Fermentation & Composting",
   "description": "Wie kompostiert und fermentierst du deine Hinterlassenschaften",
-  "source": "@site/docs/basics/fermentation-composting.mdx",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/basics/fermentation-composting.mdx",
   "sourceDirName": "basics",
   "slug": "/fermentation-composting",
   "permalink": "/fr/docs/fermentation-composting",

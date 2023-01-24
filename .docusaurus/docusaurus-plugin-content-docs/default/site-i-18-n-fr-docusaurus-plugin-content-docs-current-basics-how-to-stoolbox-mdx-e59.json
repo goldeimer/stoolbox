@@ -3,7 +3,7 @@
   "id": "basics/how-to-stoolbox",
   "title": "How to sToolbox",
   "description": "Wie man die Dokumentation für die sToolbox oder Docusaurus schreibt",
-  "source": "@site/docs/basics/how-to-stoolbox.mdx",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/basics/how-to-stoolbox.mdx",
   "sourceDirName": "basics",
   "slug": "/how-to-stoolbox",
   "permalink": "/fr/docs/how-to-stoolbox",

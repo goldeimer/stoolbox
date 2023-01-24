@@ -3,7 +3,7 @@
   "id": "basics/why-open-source-hardware",
   "title": "Why Open-Source-Hardware",
   "description": "Why Open-Source-Hardware?",
-  "source": "@site/docs/basics/why-open-source-hardware.mdx",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/basics/why-open-source-hardware.mdx",
   "sourceDirName": "basics",
   "slug": "/why-open-source-hardware",
   "permalink": "/fr/docs/why-open-source-hardware",

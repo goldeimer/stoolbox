@@ -3,7 +3,7 @@
   "id": "basics/markdown-features",
   "title": "Markdown Features",
   "description": "Docusaurus supports Markdown and a few additional features.",
-  "source": "@site/docs/basics/markdown-features.mdx",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/basics/markdown-features.mdx",
   "sourceDirName": "basics",
   "slug": "/basics/markdown-features",
   "permalink": "/fr/docs/basics/markdown-features",

@@ -3,7 +3,7 @@
   "id": "basics/basics",
   "title": "Basics",
   "description": "Alles für den Einstieg",
-  "source": "@site/docs/basics/basics.md",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/basics/basics.md",
   "sourceDirName": "basics",
   "slug": "/basics",
   "permalink": "/fr/docs/basics",

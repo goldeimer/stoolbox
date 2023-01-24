@@ -6,8 +6,8 @@
 export default {
   "title": "sToolbox",
   "tagline": "powered by Goldeimer",
-  "url": "https://stoolbox.org",
-  "baseUrl": "/",
+  "url": "http://www.stoolbox.org",
+  "baseUrl": "/fr/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -19,10 +19,32 @@ export default {
       "de",
       "ls-de",
       "en",
-      "es"
+      "es",
+      "fr"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "de": {
+        "label": "Deutsch",
+        "direction": "ltr"
+      },
+      "lsde": {
+        "label": "Deutsch (Leichte Sprache)",
+        "direction": "ltr"
+      },
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      },
+      "es": {
+        "label": "Español",
+        "direction": "ltr"
+      },
+      "fr": {
+        "label": "Français",
+        "direction": "ltr"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
