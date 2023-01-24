@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'sToolbox',
   tagline: 'powered by Goldeimer',
-  url: 'https://stoolbox.org',
+  url: 'www.stoolbox.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
