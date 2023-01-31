@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'sToolbox',
   tagline: 'powered by Goldeimer',
-  url: 'http://www.stoolbox.org',
+  url: 'http://www.stoolbox.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -68,6 +68,9 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+   'docusaurus-plugin-matomo',
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -75,7 +78,7 @@ const config = {
       announcementBar: {
       id: 'support_us',
       content:
-        'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+        'Wir wollen eine DIY Trockenklo Community Plattform aufbauen, <a target="_blank" rel="noopener noreferrer" href="#">kontaktiert uns</a>, wenn ihr euch beteiligen wollt!',
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
       isCloseable: false,
@@ -109,6 +112,12 @@ const config = {
           },
         ],
       },
+      matomo: {
+      matomoUrl: 'https://goldi.uber.space/matomo/',
+      siteId: '3',
+      phpLoader: 'matomo.php',
+      jsLoader: 'matomo.js',
+    },
       footer: {
         style: 'dark',
         links: [
