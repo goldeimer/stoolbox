@@ -30,7 +30,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Webinare',
+    title: <Translate>Webinare</Translate>,
     Svg: require('@site/static/img/undraw_online_test_re_kyfx.svg').default,
     description: (
       <>
