@@ -11,18 +11,21 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_sharing_knowledge_03vp.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <Translate>
+          Das Teilen von Wissen fördert Innovation und unterstützt kollektives Lernen.
+          Gemeinsam für eine Sanitärwende und gegen die globale Sanitärkriese!
+        </Transalate>
       </>
     ),
   },
   {
-    title: 'Anleitungen',
+    title: <Translate>Guides & How-Tos</Translate>,
     Svg: require('@site/static/img/undraw_writer_q06d.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <Translate>
+        Klick jetzt auf <code>Tutorial</code>, und starte dein eigenes WASH-Projekt!.
+        </Translate>
       </>
     ),
   },
@@ -31,8 +34,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_online_test_re_kyfx.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <Translate>
+        Coming Soon: In kürze wirst du hier noch weitere Infomaterialien und Webinare finden.
+        <Translate>
       </>
     ),
   },
