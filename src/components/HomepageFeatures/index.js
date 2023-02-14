@@ -24,7 +24,7 @@ const FeatureList = [
     description: (
       <>
         <Translate>
-        Klick jetzt auf <code>Tutorial</code>, und starte dein eigenes WASH-Projekt!.
+        Klick jetzt auf Tutorial, und starte dein eigenes WASH-Projekt!.
         </Translate>
       </>
     ),
