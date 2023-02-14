@@ -36,7 +36,7 @@ const FeatureList = [
       <>
         <Translate>
         Coming Soon: In kürze wirst du hier noch weitere Infomaterialien und Webinare finden.
-        <Translate>
+        </Translate>
       </>
     ),
   },
