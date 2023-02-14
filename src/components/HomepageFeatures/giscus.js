@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Giscus
       id="comments"
-      repo="goldeimer/poopeefy"
+      repo="goldeimer/stoolbox"
       repoId="R_kgDOH_PhSw"
       category="General"
       categoryId="DIC_kwDOH_PhS84CRaE3"
