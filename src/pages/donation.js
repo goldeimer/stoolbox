@@ -12,7 +12,6 @@ export default function Hello() {
           height: '50vh',
           fontSize: '20px',
         }}>
-        <!-- twingle -->
         <script type="text/javascript">
           (function() {
             var u="https://spenden.twingle.de/embed/goldeimer/stoolbox/tw63eb739b2cebb/form";
@@ -22,7 +21,6 @@ export default function Hello() {
             g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'/'+id; s.parentNode.insertBefore(g,s);
           })();
         </script>
-        <!-- twingle -->
         <p>
           Edit <code>pages/helloReact.js</code> and save to reload.
         </p>
