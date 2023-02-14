@@ -12,8 +12,9 @@ const FeatureList = [
     description: (
       <>
         <Translate>
-          Das Teilen von Wissen fördert Innovation und unterstützt kollektives Lernen. Gemeinsam für eine Sanitärwende und gegen die globale Sanitärkriese!
-        </Transalate>
+          Das Teilen von Wissen fördert Innovation und unterstützt kollektives Lernen. 
+          Gemeinsam für eine Sanitärwende und gegen die globale Sanitärkriese!
+        </Translate>
       </>
     ),
   },
