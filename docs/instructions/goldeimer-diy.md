@@ -57,6 +57,26 @@ Werkzeugliste:
 Es ist wichtig, sich an die Anweisungen des Herstellers oder des Bauplans zu halten und alle Sicherheitsvorkehrungen zu beachten. Wenn Sie keine Erfahrung im Bau von Gebäuden haben, könnte es ratsam sein, sich an einen professionellen Handwerker oder einen Bauunternehmer zu wenden, um sicherzustellen, dass die Hütte sicher und stabil errichtet wird.
 
 ### Wartung und Pflege:
+
+Eine Trockentoilette erfordert eine regelmäßige Reinigung und Pflege, um eine effektive und geruchsfreie Funktion zu gewährleisten. Hier sind einige grundlegende Schritte, um Ihre Trockentoilette richtig zu reinigen und zu pflegen:
+
+    1. Entfernen Sie regelmäßig alle festen Abfälle aus dem Auffangbehälter. Stellen Sie sicher, dass Sie dabei Schutzhandschuhe tragen.
+
+    2. Verwenden Sie gegebenenfalls eine kleine Menge saugfähiges Material, wie Sägemehl, Torf oder Kokosfasern, um Flüssigkeiten aufzusaugen und Gerüche zu minimieren.
+
+    3. Reinigen Sie den Sitz und alle zugänglichen Oberflächen mit einem milden Reinigungsmittel und Wasser. Verwenden Sie ein sauberes Tuch oder Papierhandtuch, um überschüssige Feuchtigkeit abzuwischen.
+
+    4. Spülen Sie den Behälter gründlich mit Wasser aus und trocknen Sie ihn vollständig ab, bevor Sie ihn wieder in die Toilette einsetzen.
+
+    5. Verwenden Sie gelegentlich eine Essig- oder Zitronensäurelösung, um hartnäckige Gerüche oder Flecken zu entfernen. Mischen Sie dazu eine Tasse Essig oder Zitronensäure mit einem Liter Wasser und tragen Sie die Lösung auf die betroffenen Stellen auf. Lassen Sie die Lösung einige Minuten einwirken, bevor Sie sie mit einem sauberen Tuch abwischen.
+
+    6. Stellen Sie sicher, dass die Belüftung ordnungsgemäß funktioniert und reinigen Sie bei Bedarf den Belüftungsschlauch oder das Belüftungsrohr.
+
+    7. Überprüfen Sie regelmäßig den Zustand der Kompostierungseinheit und fügen Sie gegebenenfalls Material hinzu, um den Kompostierungsprozess zu unterstützen.
+
+    8. Beachten Sie die Anweisungen des Herstellers bezüglich der Reinigung und Pflege der Trockentoilette. Manche Modelle erfordern eine spezifische Art der Reinigung, um ihre Funktion und Haltbarkeit zu gewährleisten.
+
+Indem Sie diese Schritte befolgen, können Sie sicherstellen, dass Ihre Trockentoilette effektiv und geruchsfrei bleibt. Eine regelmäßige Reinigung und Pflege trägt auch dazu bei, dass die Toilette lange hält und Ihnen jahrelang gute Dienste leistet.
 ### Abschluss:
 
 <Giscus />
