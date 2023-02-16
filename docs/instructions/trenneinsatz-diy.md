@@ -1,55 +1,35 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Manage Docs Versions
+# DIY-Trenneinsatz
 
-Docusaurus can manage multiple versions of your docs.
+## Wie baue ich einen Trenneinsatz für Urin und Kot aus einen Eimer?
 
-## Create a docs version
+Das Bauen eines Trenneinsatzes für Urin und Kot aus einem Eimer ist eine praktische und kostengünstige Lösung für den Kleingarten oder andere Örtlichkeiten die keine herkömmlichen Toiletten haben. Hier ist eine Anleitung, wie Sie einen solchen Einsatz bauen können:
 
-Release a version 1.0 of your project:
+Benötigte Materialien:
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+   - [ ] Eimer (vorzugsweise mit einem Deckel)
+   - [ ] Handsäge oder Stichsäge
+   - [ ] Sandpapier oder Feile
+   - [ ] Messer
+   - [ ] PVC-Rohr (1-2 Zoll Durchmesser)
+   - [ ] Heißklebepistole
+   oder
+   - [ ] Schrauben und Muttern
+   - [ ] Schraubendreher
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+Schritt-für-Schritt-Anleitung:
 
-Your docs now have 2 versions:
+    Schneiden Sie ein Loch in den Deckel des Eimers, groß genug für das PVC-Rohr, das als Urinablauf dient. Schleifen oder feilen Sie die Kanten des Lochs, um sicherzustellen, dass sie glatt und nicht scharf sind.
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+    
 
-## Add a Version Dropdown
+    Legen Sie den Eimer auf eine geeignete Plattform, wie einen Toilettenstuhl oder eine selbstgebaute Holzplattform. Das PVC-Rohr sollte in einen Behälter für den Urin münden, während der Kot direkt in den Eimer fällt.
 
-To navigate seamlessly across versions, add a version dropdown.
+    Legen Sie etwas Einstreu auf den Boden des Eimers, um Gerüche zu minimieren und den Kompostierungsprozess zu unterstützen.
 
-Modify the `docusaurus.config.js` file:
+    Entfernen Sie den Urinbehälter regelmäßig und leeren Sie ihn in eine geeignete Sammelstelle. Der Kotbehälter kann nach dem Gebrauch mit Sägemehl oder Streu bedeckt werden, um Gerüche zu minimieren.
 
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+Diese Anleitung bietet eine einfache Möglichkeit, einen Trenneinsatz für Urin und Kot aus einem Eimer zu bauen. Es ist wichtig, darauf zu achten, dass der Eimer regelmäßig geleert und gereinigt wird, um eine Hygiene zu gewährleisten.
