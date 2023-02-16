@@ -52,11 +52,6 @@ Werkzeugliste:
 10. Installieren Sie elektrische Systeme und andere Funktionen wie Heizung und Belüftung, falls erforderlich.
 11. Fügen Sie endgültige Berührungen hinzu, wie z.B. Malerarbeiten, Verkleidungen und Möbel.
 
-#### Der Trenneinsatz:
-- [ ] Eimer
-- [ ] Trichter
-- [ ] Teppichmesser
-- [ ] Nietzange
 
 ### Sicherheitshinweise:
 Es ist wichtig, sich an die Anweisungen des Herstellers oder des Bauplans zu halten und alle Sicherheitsvorkehrungen zu beachten. Wenn Sie keine Erfahrung im Bau von Gebäuden haben, könnte es ratsam sein, sich an einen professionellen Handwerker oder einen Bauunternehmer zu wenden, um sicherzustellen, dass die Hütte sicher und stabil errichtet wird.
