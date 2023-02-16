@@ -6,6 +6,8 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
+
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -17,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="/docs/category/basics">
+            <Translate>Plane deine eigene Trockentoillete⚒️</Translate>
           </Link>
         </div>
       </div>
