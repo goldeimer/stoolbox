@@ -8,7 +8,7 @@ sidebar_position: 3
 
 > Es ist wichtig zu beachten, dass der Bau eines Trenneinsatzes für Urin und Kot aus einem Eimer eine praktische und kostengünstige Lösung sein kann, aber es erfordert auch handwerkliches Geschick und die Fähigkeit, sicher mit Werkzeugen umzugehen. Darüber hinaus können selbstgebaute Lösungen nicht immer die gleiche Qualität, Hygiene und Zuverlässigkeit bieten wie kommerziell erhältliche Produkte.
 
-Für sensible Personen oder für den langfristigen Einsatz in Innenräumen empfiehlt es sich daher, auf qualitativ hochwertige kommerzielle Trenneinsätze zurückzugreifen, die speziell für den Zweck entwickelt wurden. Diese Lösungen bieten oft eine höhere Hygienestandard, sind einfacher zu reinigen und bieten mehr Komfort und Sicherheit beim Gebrauch. Wenn Sie Bedenken haben, sollten Sie immer die Anweisungen des Herstellers sorgfältig befolgen und geeignete Schutzausrüstung tragen.
+> Für sensible Personen oder für den langfristigen Einsatz in Innenräumen empfiehlt es sich daher, auf qualitativ hochwertige kommerzielle Trenneinsätze zurückzugreifen, die speziell für den Zweck entwickelt wurden. Diese Lösungen bieten oft eine höhere Hygienestandard, sind einfacher zu reinigen und bieten mehr Komfort und Sicherheit beim Gebrauch. Wenn Sie Bedenken haben, sollten Sie immer die Anweisungen des Herstellers sorgfältig befolgen und geeignete Schutzausrüstung tragen.
 
 Das Bauen eines Trenneinsatzes für Urin und Kot aus einem Eimer ist eine praktische und kostengünstige Lösung für den Kleingarten oder andere Örtlichkeiten die keine herkömmlichen Toiletten haben. Hier ist eine Anleitung, wie Sie einen solchen Einsatz bauen können:
 
