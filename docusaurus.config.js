@@ -119,7 +119,7 @@ const config = {
             items: [
               {
                 label: 'Basics',
-                to: '/basics/basic',
+                to: 'docs/category/basics',
               },
             ],
           },
