@@ -1,5 +1,5 @@
 ---
-id: intro
+id: basic
 title: Basics
 hide_title: false
 hide_table_of_contents: false
