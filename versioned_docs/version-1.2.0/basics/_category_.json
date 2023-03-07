@@ -1,0 +1,11 @@
+{
+  "label": "Basics",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "description": "Here you will find the basics about composting toilets."
+  }
+}
