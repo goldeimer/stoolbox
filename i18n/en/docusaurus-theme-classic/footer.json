@@ -11,10 +11,6 @@
     "message": "More",
     "description": "The title of the footer links column with title=More in the footer"
   },
-  "link.item.label.Tutorial": {
-    "message": "Tutorial",
-    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
-  },
   "link.item.label.Stack Overflow": {
     "message": "Stack Overflow",
     "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/docusaurus"
@@ -27,10 +23,7 @@
     "message": "Twitter",
     "description": "The label of footer link with label=Twitter linking to https://twitter.com/docusaurus"
   },
-  "link.item.label.Blog": {
-    "message": "Blog",
-    "description": "The label of footer link with label=Blog linking to /blog"
-  },
+
   "link.item.label.GitHub": {
     "message": "GitHub",
     "description": "The label of footer link with label=GitHub linking to https://github.com/goldeimer/poopeefy"
