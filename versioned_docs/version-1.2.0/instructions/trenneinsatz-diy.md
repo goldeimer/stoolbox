@@ -2,54 +2,34 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Trenneinsatz DIY
 
-Docusaurus can manage multiple versions of your docs.
+Hier findest du einen Bauplan für den Goldeimer DIY Trenneinsatz
 
-## Create a docs version
+## Materialen
 
-Release a version 1.0 of your project:
+Um einen Trenneinsatz für eine Trenntrockentoilette zu bauen, benötigst du folgende Materialien:
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+- [ ] einen Eimer
+- [ ] ein Rohr (durchmesser >2cm, länge >50cm)
+- [ ] ggf. Schrauben oder Nieten
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+## Werkzeugliste
 
-Your docs now have 2 versions:
+- [ ] Ein Teppichmesser
+- [ ] Sandpapier oder Feile
+- [ ] Silikon oder Nietzange
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+## Step by Step 
 
-## Add a Version Dropdown
+Hier sind die Schritte, um den Trenneinsatz zu bauen:
 
-To navigate seamlessly across versions, add a version dropdown.
+1. Schneide vom Eimerboden ein Sichelförmiges Stück raus. 
+2. Entferne den Restlichen Boden vom Eimer.
+3. Schneide innerhalb des Sichelförmigen Stückes (ziemlich genau in der Mitte von der Kante) ein kleines loch, das ein kleines Stück kleiner als dein Rohr ist.
+4. Glätte die Kanten mit Sandpapier oder einer Feile ab.
+5. Stecke das Rohr in dein Eimerstück mit Loch, verklebe es ggf. 
+6. Verklebe oder Verschraube beide Teile wie auf dem Bild zu sehen.
+7. Fertig! Nun hast du ein Trennelement für deine Trenntrockentoilette, schaue doch für den Rest einfach unser nächstes Tutorial an!
 
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+Der Trenneinsatz ermöglicht es, Urin und Feststoffe getrennt aufzufangen, um Geruchsbildung und Hygieneprobleme zu reduzieren. Der Urin fließt durch das kleinere Rohr ab und kann separat entsorgt werden, während die Feststoffe in einen weiteren Eimer verbleiben und später entleert werden können.

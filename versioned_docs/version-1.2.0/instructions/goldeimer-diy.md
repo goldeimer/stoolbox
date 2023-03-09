@@ -36,32 +36,29 @@ Materialliste:
 Werkzeugliste:
 - [ ] Säge
 - [ ] Akkuschrauber
-- [ ]
+- [ ] 
 
 ### Schritt-für-Schritt-Anleitung:
 
-1. Wählen Sie einen geeigneten Standort für die Hütte aus und markieren Sie den Bereich. Berücksichtigen Sie dabei Faktoren wie die Größe der Hütte, die Zugänglichkeit und die Nähe zu Strom- und Wasseranschlüssen.
-2. Stellen Sie sicher, dass Sie alle erforderlichen Genehmigungen und Baugenehmigungen haben, bevor Sie mit dem Bau beginnen.
-3. Bereiten Sie den Untergrund vor, indem Sie den Boden eben machen und eventuell eine Fundamentplatte legen.
-4. Erstellen Sie einen Bauplan und beschaffen Sie alle erforderlichen Materialien und Werkzeuge.
-5. Beginnen Sie mit dem Bau der Grundstruktur der Hütte, indem Sie die Pfosten und das Fundament errichten.
-6. Bauen Sie die Wandrahmen und befestigen Sie die Wandpaneele oder die Wandverkleidung.
-7. Bauen Sie das Dach, indem Sie die Dachsparren und das Dachmaterial installieren.
-8. Installieren Sie Türen und Fenster, falls vorgesehen.
-9. Fügen Sie Innen- und Außenverkleidungen hinzu, wie z.B. Verkleidungen, Fußböden und Innenwände.
-10. Installieren Sie elektrische Systeme und andere Funktionen wie Heizung und Belüftung, falls erforderlich.
-11. Fügen Sie endgültige Berührungen hinzu, wie z.B. Malerarbeiten, Verkleidungen und Möbel.
+1. Wähle einen geeigneten Standort für deine DIY Trenntrockentoillete aus und markieren den Bereich. Berücksichtige dabei Faktoren wie die Größe der Toilette, die Zugänglichkeit und die Nähe zu Strom- und ggf. Wasseranschlüssen. 
+2. Stelle  sicher, dass du alle erforderlichen Genehmigungen und Baugenehmigungen hast, bevor du mit dem Bau beginnst. (Achtung!, ich Wasserschutzgebieten sind Trenntrockentoilleten nicht erlaubt)
+3. Bereite den Untergrund vor, indem du den Boden eben machst und eventuell eine Fundamentplatte legst.
+4. Erstelle einen Bauplan und beschaffe alle erforderlichen Materialien und Werkzeuge. (Die CAD Zeichnung hier, kann dir dabei helfen)
+5. Beginne mit dem Bau der Grundstruktur der Hütte, schneide die Pfosten in die richtige länge und schneide passende Dachstrebenschlitze ein.
+6. Befestige die Pfosten auf das Fundament oder den Boden.
+7. Baue die Wandrahmen und befestige die Wandpaneele oder die Wandverkleidung.
+8. Baue das Dach, indem du die Dachsparren und das Dachmaterial installierst.
+9. Schraube das Dach auf die vier Pfosten fest.
+10. Installiere die Türe und ggf. Fenster, falls vorgesehen.
+11. (nice-to-have) Installiere elektrische Systeme und andere Funktionen wie Heizung und Belüftung, falls erforderlich.
 
-#### Der Trenneinsatz:
-- [ ] Eimer
-- [ ] Trichter
-- [ ] Teppichmesser
-- [ ] Nietzange
+### Der Trenneinsatz:
+siehe DIY Trenneinsatz
 
-### Sicherheitshinweise:
-Es ist wichtig, sich an die Anweisungen des Herstellers oder des Bauplans zu halten und alle Sicherheitsvorkehrungen zu beachten. Wenn Sie keine Erfahrung im Bau von Gebäuden haben, könnte es ratsam sein, sich an einen professionellen Handwerker oder einen Bauunternehmer zu wenden, um sicherzustellen, dass die Hütte sicher und stabil errichtet wird.
+> ### Sicherheitshinweise:
+Wenn du keine Erfahrung im Bau von Hütten haben solltest, könnte es ratsam sein, sich an einen professionellen Handwerker oder einen Bauunternehmer zu wenden, um sicherzustellen, dass die Trenntrockentoillete sicher und stabil errichtet wird.
 
-### Wartung und Pflege:
-### Abschluss:
+### Wartung und Pflege: 
+siehe Basics
 
 <Giscus />
