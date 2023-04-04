@@ -105,12 +105,41 @@ const config = {
           },
         ],
       },
-      matomo: {
-      matomoUrl: 'https://goldi.uber.space/matomo/',
-      siteId: '3',
-      phpLoader: 'matomo.php',
-      jsLoader: 'matomo.js',
-    },
+      	matomo: {
+      		matomoUrl: 'https://goldi.uber.space/matomo/',
+      		siteId: '3',
+      		phpLoader: 'matomo.php',
+      		jsLoader: 'matomo.js',
+    	},
+	algolia: {
+	      // The application ID provided by Algolia
+	      appId: '3FO82CSW7H',
+
+	      // Public API key: it is safe to commit it
+	      apiKey: '63051697c699d185c5cadfd9e564ed33',
+
+	      indexName: 'stoolbox-goldeimer',
+
+	      // Optional: see doc section below
+	      contextualSearch: true,
+
+	      // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+	      externalUrlRegex: 'external\\.com|domain\\.com',
+
+	      // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+	      replaceSearchResultPathname: {
+		from: '/docs/', // or as RegExp: /\/docs\//
+		to: '/',
+	      },
+
+	      // Optional: Algolia search parameters
+	      searchParameters: {},
+
+	      // Optional: path for search page that enabled by default (`false` to disable it)
+	      searchPagePath: 'search',
+
+	      //... other Algolia params
+	},
       footer: {
         style: 'dark',
         links: [
