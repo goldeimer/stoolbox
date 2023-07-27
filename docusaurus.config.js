@@ -4,6 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'sToolbox',
@@ -80,7 +81,7 @@ const config = {
         title: 'sToolbox',
         logo: {
           alt: 'sToolbox Logo',
-          src: 'img/logo.svg',
+          src: 'img/goldeimer-logo.png',
         },
         items: [
           {
@@ -195,7 +196,7 @@ const config = {
 
 
         ],
-        copyright: `sToolbox © ${new Date().getFullYear()} powered by Goldeimer gGmbH & Netzwerk für nachhaltige Sanitärsysteme e.V.`,
+        copyright: `sToolbox © ${new Date().getFullYear()} powered by Goldeimer gGmbH`,
       },
       prism: {
         theme: lightCodeTheme,

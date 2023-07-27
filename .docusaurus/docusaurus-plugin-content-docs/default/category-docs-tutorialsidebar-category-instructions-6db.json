@@ -1,0 +1,16 @@
+{
+  "title": "Instructions",
+  "description": "Here you can find different instructions for different types of dry toilets",
+  "slug": "/category/instructions",
+  "permalink": "/docs/category/instructions",
+  "navigation": {
+    "previous": {
+      "title": "How to sToolbox",
+      "permalink": "/docs/how-to-stoolbox"
+    },
+    "next": {
+      "title": "Trenneinsatz DIY",
+      "permalink": "/docs/instructions/trenneinsatz-diy"
+    }
+  }
+}

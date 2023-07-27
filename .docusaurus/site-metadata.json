@@ -1,6 +1,6 @@
 {
   "docusaurusVersion": "2.2.0",
-  "siteVersion": "1.1.0",
+  "siteVersion": "1.2.0",
   "pluginVersions": {
     "docusaurus-plugin-content-docs": {
       "type": "package",
@@ -26,6 +26,16 @@
       "type": "package",
       "name": "@docusaurus/theme-classic",
       "version": "2.2.0"
+    },
+    "docusaurus-theme-search-algolia": {
+      "type": "package",
+      "name": "@docusaurus/theme-search-algolia",
+      "version": "2.2.0"
+    },
+    "docusaurus-plugin-matomo": {
+      "type": "package",
+      "name": "docusaurus-plugin-matomo",
+      "version": "0.0.6"
     }
   }
 }

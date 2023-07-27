@@ -1,12 +1,12 @@
 {
   "pluginId": "default",
-  "version": "current",
-  "label": "Next",
-  "banner": "unreleased",
+  "version": "1.2.0",
+  "label": "1.2.0",
+  "banner": null,
   "badge": true,
   "noIndex": false,
-  "className": "docs-version-current",
-  "isLast": false,
+  "className": "docs-version-1.2.0",
+  "isLast": true,
   "docsSidebars": {
     "tutorialSidebar": [
       {
@@ -19,35 +19,29 @@
           {
             "type": "link",
             "label": "Basics",
-            "href": "/docs/next/basics",
+            "href": "/docs/basics",
             "docId": "basics/basics"
           },
           {
             "type": "link",
             "label": "Fermentation & Composting",
-            "href": "/docs/next/fermentation-composting",
+            "href": "/docs/fermentation-composting",
             "docId": "basics/fermentation-composting"
           },
           {
             "type": "link",
             "label": "Why Open-Source-Hardware",
-            "href": "/docs/next/why-open-source-hardware",
+            "href": "/docs/why-open-source-hardware",
             "docId": "basics/why-open-source-hardware"
           },
           {
             "type": "link",
             "label": "How to sToolbox",
-            "href": "/docs/next/how-to-stoolbox",
+            "href": "/docs/how-to-stoolbox",
             "docId": "basics/how-to-stoolbox"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/next/basics/markdown-features",
-            "docId": "basics/markdown-features"
           }
         ],
-        "href": "/docs/next/category/basics"
+        "href": "/docs/category/basics"
       },
       {
         "type": "category",
@@ -57,24 +51,18 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/next/instructions/trenneinsatz-diy",
+            "label": "Trenneinsatz DIY",
+            "href": "/docs/instructions/trenneinsatz-diy",
             "docId": "instructions/trenneinsatz-diy"
           },
           {
             "type": "link",
             "label": "Goldeimer DIY",
-            "href": "/docs/next/goldeimer-diy",
+            "href": "/docs/goldeimer-diy",
             "docId": "instructions/goldeimer-diy"
-          },
-          {
-            "type": "link",
-            "label": "Festival DIY",
-            "href": "/docs/next/festival-diy",
-            "docId": "instructions/festival-diy"
           }
         ],
-        "href": "/docs/next/category/instructions"
+        "href": "/docs/category/instructions"
       }
     ]
   },
@@ -97,22 +85,10 @@
       "description": "Wie man die Dokumentation für die sToolbox oder Docusaurus schreibt",
       "sidebar": "tutorialSidebar"
     },
-    "basics/markdown-features": {
-      "id": "basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
     "basics/why-open-source-hardware": {
       "id": "basics/why-open-source-hardware",
       "title": "Why Open-Source-Hardware",
       "description": "Why Open-Source-Hardware?",
-      "sidebar": "tutorialSidebar"
-    },
-    "instructions/festival-diy": {
-      "id": "instructions/festival-diy",
-      "title": "Goldeimers DIY Festival Trockentoilette",
-      "description": "Bauanleitung für eine DIY Festival Trockentoilette",
       "sidebar": "tutorialSidebar"
     },
     "instructions/goldeimer-diy": {
@@ -123,8 +99,8 @@
     },
     "instructions/trenneinsatz-diy": {
       "id": "instructions/trenneinsatz-diy",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+      "title": "Trenneinsatz DIY",
+      "description": "Hier findest du einen Bauplan für den Goldeimer DIY Trenneinsatz",
       "sidebar": "tutorialSidebar"
     }
   }

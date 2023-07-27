@@ -1,0 +1,44 @@
+{
+  "unversionedId": "basics/basics",
+  "id": "basics/basics",
+  "title": "Basics",
+  "description": "Alles für den Einstieg",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/basics/basics.md",
+  "sourceDirName": "basics",
+  "slug": "/basics",
+  "permalink": "/docs/next/basics",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "basics",
+    "title": "Basics",
+    "hide_title": false,
+    "hide_table_of_contents": false,
+    "sidebar_label": "Basics",
+    "sidebar_position": 1,
+    "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+    "description": "Alles für den Einstieg",
+    "keywords": [
+      "docs",
+      "docusaurus"
+    ],
+    "image": "https://i.imgur.com/mErPwqL.png",
+    "slug": "/basics",
+    "last_update": {
+      "date": "12/16/22",
+      "author": "Frederik Gottemeyer"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/docs/next/category/basics"
+  },
+  "next": {
+    "title": "Fermentation & Composting",
+    "permalink": "/docs/next/fermentation-composting"
+  }
+}

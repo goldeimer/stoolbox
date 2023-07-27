@@ -1,243 +1,165 @@
 {
-  "/fr/__docusaurus/debug-288": {
+  "/__docusaurus/debug-58e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---fr-docusaurus-debug-2-d-3-cb1"
+      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
     }
   },
-  "/fr/__docusaurus/debug/config-701": {
+  "/__docusaurus/debug/config-6a0": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---fr-docusaurus-debug-2-d-3-cb1"
+      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
     }
   },
-  "/fr/__docusaurus/debug/content-596": {
+  "/__docusaurus/debug/content-d5c": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---fr-docusaurus-debug-2-d-3-cb1"
+      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
     },
-    "allContent": "allContent---fr-docusaurus-debug-content-246-795"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/fr/__docusaurus/debug/globalData-06b": {
+  "/__docusaurus/debug/globalData-fe8": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---fr-docusaurus-debug-2-d-3-cb1"
+      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
     }
   },
-  "/fr/__docusaurus/debug/metadata-a7a": {
+  "/__docusaurus/debug/metadata-56f": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---fr-docusaurus-debug-2-d-3-cb1"
+      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
     }
   },
-  "/fr/__docusaurus/debug/registry-51b": {
+  "/__docusaurus/debug/registry-e5b": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---fr-docusaurus-debug-2-d-3-cb1"
+      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
     }
   },
-  "/fr/__docusaurus/debug/routes-48c": {
+  "/__docusaurus/debug/routes-cdb": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---fr-docusaurus-debug-2-d-3-cb1"
+      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
     }
   },
-  "/fr/blog-89b": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+  "/donation-519": {
+    "__comp": "__comp---site-src-pages-donation-js-48-e-131",
     "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
+      "plugin": "plugin---donation-24-d-7ea"
     },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "items": [
-      {
-        "content": "content---fr-blog-766-ef1"
-      },
-      {
-        "content": "content---fr-blogf-4-f-855"
-      },
-      {
-        "content": "content---fr-blog-871-59a"
-      },
-      {
-        "content": "content---fr-blog-925-c99"
-      }
-    ],
-    "metadata": "metadata---fr-blogd-58-a24"
+    "config": "config---donation-5-e-9-4ad"
   },
-  "/fr/blog/archive-b1c": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "archive": "archive---fr-blog-archivecf-2-1b3"
-  },
-  "/fr/blog/first-blog-post-228": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "content": "content---fr-blog-first-blog-poste-27-ede"
-  },
-  "/fr/blog/long-blog-post-87a": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "content": "content---fr-blog-long-blog-post-736-75b"
-  },
-  "/fr/blog/mdx-blog-post-fb6": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "content": "content---fr-blog-mdx-blog-post-593-f79"
-  },
-  "/fr/blog/tags-2f7": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "tags": "tags---fr-blog-tags-922-d98"
-  },
-  "/fr/blog/tags/docusaurus-39d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "items": [
-      {
-        "content": "content---fr-blog-766-ef1"
-      },
-      {
-        "content": "content---fr-blogf-4-f-855"
-      },
-      {
-        "content": "content---fr-blog-871-59a"
-      },
-      {
-        "content": "content---fr-blog-925-c99"
-      }
-    ],
-    "tag": "tag---fr-blog-tags-docusaurus-46-c-a27",
-    "listMetadata": "listMetadata---fr-blog-tags-docusaurus-454-b7e"
-  },
-  "/fr/blog/tags/facebook-47b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "items": [
-      {
-        "content": "content---fr-blog-766-ef1"
-      }
-    ],
-    "tag": "tag---fr-blog-tags-facebook-62-b-882",
-    "listMetadata": "listMetadata---fr-blog-tags-facebookc-6-c-ccc"
-  },
-  "/fr/blog/tags/hello-16c": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "items": [
-      {
-        "content": "content---fr-blog-766-ef1"
-      },
-      {
-        "content": "content---fr-blog-871-59a"
-      }
-    ],
-    "tag": "tag---fr-blog-tags-hellodf-9-4bd",
-    "listMetadata": "listMetadata---fr-blog-tags-hello-9-fb-398"
-  },
-  "/fr/blog/tags/hola-b26": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "items": [
-      {
-        "content": "content---fr-blog-925-c99"
-      }
-    ],
-    "tag": "tag---fr-blog-tags-hola-43-d-2d2",
-    "listMetadata": "listMetadata---fr-blog-tags-holac-23-1f3"
-  },
-  "/fr/blog/welcome-952": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---fr-blog-1-a-7-319"
-    },
-    "sidebar": "sidebar---fr-blog-814-891",
-    "content": "content---fr-blog-welcomed-9-f-85e"
-  },
-  "/fr/markdown-page-42e": {
+  "/markdown-page-634": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---fr-markdown-page-24-d-abb"
+      "plugin": "plugin---donation-24-d-7ea"
     },
-    "content": "content---fr-markdown-page-393-993"
+    "content": "content---markdown-page-393-028"
   },
-  "/fr/docs-98b": {
+  "/search-60d": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---search-5-f-6-fe8"
+    }
+  },
+  "/temp_index-c8a": {
+    "__comp": "__comp---site-src-pages-temp-index-js-915-680",
+    "__context": {
+      "plugin": "plugin---donation-24-d-7ea"
+    },
+    "config": "config---donation-5-e-9-4ad"
+  },
+  "/docs/next-017": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---fr-docs-7-b-7-215"
+      "plugin": "plugin---docs-next-7-b-7-30e"
     },
-    "versionMetadata": "versionMetadata---fr-docs-935-961"
+    "versionMetadata": "versionMetadata---docs-next-935-7db"
   },
-  "/fr/docs/basics-f5e": {
+  "/docs/next/basics-5da": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-basicsffa-8dc"
+    "content": "content---docs-next-basics-4-e-1-639"
   },
-  "/fr/docs/basics/markdown-features-0fc": {
+  "/docs/next/basics/markdown-features-eac": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-basics-markdown-featuresf-51-e4f"
+    "content": "content---docs-next-basics-markdown-features-557-bfd"
   },
-  "/fr/docs/category/basics-68c": {
+  "/docs/next/category/basics-48a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---fr-docs-category-basics-99-e-eab"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-basics-0-a-4-ce7"
   },
-  "/fr/docs/category/instructions-f23": {
+  "/docs/next/category/instructions-a64": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---fr-docs-category-instructions-1-c-2-511"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-instructionsa-29-396"
   },
-  "/fr/docs/fermentation-composting-f01": {
+  "/docs/next/fermentation-composting-5fd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-fermentation-composting-060-95c"
+    "content": "content---docs-next-fermentation-composting-08-e-880"
   },
-  "/fr/docs/goldeimer-diy-cc7": {
+  "/docs/next/festival-diy-fb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-goldeimer-diyeff-bc7"
+    "content": "content---docs-next-festival-diya-75-a20"
   },
-  "/fr/docs/how-to-stoolbox-248": {
+  "/docs/next/goldeimer-diy-fb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-how-to-stoolboxe-59-410"
+    "content": "content---docs-next-goldeimer-diyfee-93d"
   },
-  "/fr/docs/instructions/trenneinsatz-diy-c9d": {
+  "/docs/next/how-to-stoolbox-346": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-instructions-trenneinsatz-diy-9-de-56d"
+    "content": "content---docs-next-how-to-stoolboxc-4-d-ba6"
   },
-  "/fr/docs/intro-f86": {
+  "/docs/next/instructions/trenneinsatz-diy-c84": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-intro-0-e-3-a4a"
+    "content": "content---docs-next-instructions-trenneinsatz-diyacb-d63"
   },
-  "/fr/docs/why-open-source-hardware-10c": {
+  "/docs/next/why-open-source-hardware-e56": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fr-docs-why-open-source-hardwared-61-7bc"
+    "content": "content---docs-next-why-open-source-hardware-8-e-9-3cf"
   },
-  "/fr/-60d": {
+  "/docs-47c": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-next-7-b-7-30e"
+    },
+    "versionMetadata": "versionMetadata---docs-055-6a3"
+  },
+  "/docs/basics-671": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-9-b-0-d8c"
+  },
+  "/docs/category/basics-dd3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-basics-58-a-6c4"
+  },
+  "/docs/category/instructions-a4f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-instructions-1-e-0-6f7"
+  },
+  "/docs/fermentation-composting-a50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-fermentation-compostingaf-7-3a4"
+  },
+  "/docs/goldeimer-diy-c60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-goldeimer-diyceb-e5b"
+  },
+  "/docs/how-to-stoolbox-f29": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-to-stoolboxdb-8-6c9"
+  },
+  "/docs/instructions/trenneinsatz-diy-24f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-instructions-trenneinsatz-diyfee-41d"
+  },
+  "/docs/why-open-source-hardware-f42": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-why-open-source-hardware-3-e-7-8aa"
+  },
+  "/-af0": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---fr-markdown-page-24-d-abb"
+      "plugin": "plugin---donation-24-d-7ea"
     },
-    "config": "config---fr-5-e-9-4f9"
+    "config": "config---donation-5-e-9-4ad"
   }
 }

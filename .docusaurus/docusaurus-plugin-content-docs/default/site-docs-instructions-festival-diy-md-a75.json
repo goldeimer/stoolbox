@@ -1,0 +1,40 @@
+{
+  "unversionedId": "instructions/festival-diy",
+  "id": "instructions/festival-diy",
+  "title": "Goldeimers DIY Festival Trockentoilette",
+  "description": "Bauanleitung für eine DIY Festival Trockentoilette",
+  "source": "@site/docs/instructions/festival-diy.md",
+  "sourceDirName": "instructions",
+  "slug": "/festival-diy",
+  "permalink": "/docs/next/festival-diy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "festival-diy",
+    "title": "Goldeimers DIY Festival Trockentoilette",
+    "hide_title": false,
+    "hide_table_of_contents": false,
+    "sidebar_label": "Festival DIY",
+    "sidebar_position": 3,
+    "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+    "description": "Bauanleitung für eine DIY Festival Trockentoilette",
+    "keywords": [
+      "docs",
+      "docusaurus"
+    ],
+    "image": "https://i.imgur.com/mErPwqL.png",
+    "slug": "/festival-diy",
+    "last_update": {
+      "date": "01/16/23",
+      "author": "Frederik Gottemeyer"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Goldeimer DIY",
+    "permalink": "/docs/next/goldeimer-diy"
+  }
+}

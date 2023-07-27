@@ -6,9 +6,9 @@
   "source": "@site/docs/basics/markdown-features.mdx",
   "sourceDirName": "basics",
   "slug": "/basics/markdown-features",
-  "permalink": "/fr/docs/basics/markdown-features",
+  "permalink": "/docs/next/basics/markdown-features",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/basics/markdown-features.mdx",
+  "editUrl": "https://github.com/goldeimer/stoolbox/docs/basics/markdown-features.mdx",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to sToolbox",
-    "permalink": "/fr/docs/how-to-stoolbox"
+    "permalink": "/docs/next/how-to-stoolbox"
   },
   "next": {
     "title": "Instructions",
-    "permalink": "/fr/docs/category/instructions"
+    "permalink": "/docs/next/category/instructions"
   }
 }
