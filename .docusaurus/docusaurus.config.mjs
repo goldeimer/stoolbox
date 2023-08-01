@@ -75,7 +75,7 @@ export default {
       "title": "sToolbox",
       "logo": {
         "alt": "sToolbox Logo",
-        "src": "img/goldeimer-logo.png"
+        "src": "/img/goldeimer-logo.png"
       },
       "items": [
         {
@@ -85,7 +85,7 @@ export default {
           "label": "Tutorial"
         },
         {
-          "to": "/donation",
+          "to": "/donation/",
           "label": "Spenden",
           "position": "left"
         },

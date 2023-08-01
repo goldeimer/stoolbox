@@ -42,7 +42,7 @@ export default function Home() {
 				subtitle='Alles was du brauchst, um deine eigene Trockentoiltte zu bauen, ob für Festivals oder Privat'
 				buttonLabel='Jetzt loslegen'
 				buttonUrl='#basics'
-				imageUrl='/img/homepage/w-logo.svg'
+				imageUrl='/img/justus-truhe.svg'
 				gray
 			/>
 
