@@ -4,7 +4,7 @@ title: Changelog
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: Changelog
-sidebar_position: 9
+sidebar_position: 7
 custom_edit_url: https://github.com/stoolbox/docs/basic/changelog.md
 description: Was gibts neues, und was erwartet dich noch?
 keywords:
