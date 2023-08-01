@@ -164,6 +164,10 @@ const config = {
                 label: 'Datenschutzerklärung',
                 href: 'https://goldeimer.de/policies/privacy-policy',
               },
+              {
+                label: 'Kontakt',
+                href: 'https://goldeimer.de/pages/kontakt',
+              },
             ],
           },
 	{
@@ -172,10 +176,7 @@ const config = {
 	    {
 	      html: `
 		<a href="https://goldeimer.com" target="_blank" rel="noreferrer noopener" aria-label="Goldeimer gGmbH Logo">
-		  <img src="/img/goldeimer_logo.png" alt="Goldeimer gGmbH Logo" height="70px"/>
-		</a>
-		<a href="https://www.netsan.org/" target="_blank" rel="noreferrer noopener" aria-label="Netsan e.V. Logo">
-		  <img src="/img/netsan_logo.png" alt="Netsan e.V. Logo" height="70px"/>
+		  <img src="/img/goldeimer_logo.png" alt="Goldeimer gGmbH Logo" width="200px"/>
 		</a>
 	      `,
 	    },
@@ -187,7 +188,7 @@ const config = {
 	    {
 	      html: `
 		<a href="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/" target="_blank" rel="noreferrer noopener" aria-label="Deutsche-Stiftung-Engagement-und-Ehrenamt Logo">
-		  <img src="/img/dsee_logo.png" alt="Deutsche-Stiftung-Engagement-und-Ehrenamt Logo" height="70px" />
+		  <img src="/img/dsee_logo.png" alt="Deutsche-Stiftung-Engagement-und-Ehrenamt Logo" width="200px" />
 		</a>
 	      `,
 	    },

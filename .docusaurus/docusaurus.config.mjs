@@ -144,6 +144,10 @@ export default {
             {
               "label": "Datenschutzerklärung",
               "href": "https://goldeimer.de/policies/privacy-policy"
+            },
+            {
+              "label": "Kontakt",
+              "href": "https://goldeimer.de/pages/kontakt"
             }
           ]
         },
@@ -151,7 +155,7 @@ export default {
           "title": "Powered by",
           "items": [
             {
-              "html": "\n\t\t<a href=\"https://goldeimer.com\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Goldeimer gGmbH Logo\">\n\t\t  <img src=\"/img/goldeimer_logo.png\" alt=\"Goldeimer gGmbH Logo\" height=\"70px\"/>\n\t\t</a>\n\t\t<a href=\"https://www.netsan.org/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Netsan e.V. Logo\">\n\t\t  <img src=\"/img/netsan_logo.png\" alt=\"Netsan e.V. Logo\" height=\"70px\"/>\n\t\t</a>\n\t      "
+              "html": "\n\t\t<a href=\"https://goldeimer.com\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Goldeimer gGmbH Logo\">\n\t\t  <img src=\"/img/goldeimer_logo.png\" alt=\"Goldeimer gGmbH Logo\" width=\"200px\"/>\n\t\t</a>\n\t      "
             }
           ]
         },
@@ -159,7 +163,7 @@ export default {
           "title": "Gefördert durch",
           "items": [
             {
-              "html": "\n\t\t<a href=\"https://www.deutsche-stiftung-engagement-und-ehrenamt.de/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Deutsche-Stiftung-Engagement-und-Ehrenamt Logo\">\n\t\t  <img src=\"/img/dsee_logo.png\" alt=\"Deutsche-Stiftung-Engagement-und-Ehrenamt Logo\" height=\"70px\" />\n\t\t</a>\n\t      "
+              "html": "\n\t\t<a href=\"https://www.deutsche-stiftung-engagement-und-ehrenamt.de/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Deutsche-Stiftung-Engagement-und-Ehrenamt Logo\">\n\t\t  <img src=\"/img/dsee_logo.png\" alt=\"Deutsche-Stiftung-Engagement-und-Ehrenamt Logo\" width=\"200px\" />\n\t\t</a>\n\t      "
             }
           ]
         }
