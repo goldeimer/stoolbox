@@ -66,7 +66,7 @@ export default {
   "themeConfig": {
     "announcementBar": {
       "id": "support_us",
-      "content": "Wir wollen eine DIY Trockenklo Community Plattform aufbauen, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"#\">kontaktiert uns</a>, wenn ihr euch beteiligen wollt!",
+      "content": "Wir wollen eine DIY Trockenklo Community Plattform aufbauen, hilf uns dabei!",
       "backgroundColor": "#fafbfc",
       "textColor": "#091E42",
       "isCloseable": false
@@ -75,7 +75,9 @@ export default {
       "title": "sToolbox",
       "logo": {
         "alt": "sToolbox Logo",
-        "src": "/img/goldeimer-logo.png"
+        "src": "/img/goldeimer-logo.png",
+        "width": "200px",
+        "height": "auto"
       },
       "items": [
         {

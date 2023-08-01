@@ -9,6 +9,7 @@ import { Hero, ImageAndText, CtaCards, TextCards, FeatureShowcase, CtaImageButto
 import styles from './index.module.css';
 import Translate, {translate} from '@docusaurus/Translate';
 
+<script src="https://cdn.userway.org/widget.js" data-account="XJKGmFikiv"></script>
 
 /*function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
