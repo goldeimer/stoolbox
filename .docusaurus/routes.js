@@ -131,7 +131,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4e1'),
+    component: ComponentCreator('/docs', '496'),
     routes: [
       {
         path: '/docs/basics',
@@ -178,6 +178,12 @@ export default [
       {
         path: '/docs/instructions/trenneinsatz-diy',
         component: ComponentCreator('/docs/instructions/trenneinsatz-diy', '24f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/instructions/uebersicht',
+        component: ComponentCreator('/docs/instructions/uebersicht', '158'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

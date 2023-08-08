@@ -11,16 +11,12 @@
   "editUrl": "https://github.com/goldeimer/stoolbox/versioned_docs/version-1.2.0/instructions/trenneinsatz-diy.md",
   "tags": [],
   "version": "1.2.0",
-  "sidebarPosition": 1,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Instructions",
-    "permalink": "/docs/category/instructions"
-  },
-  "next": {
     "title": "Goldeimer DIY",
     "permalink": "/docs/goldeimer-diy"
   }

@@ -119,6 +119,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "instructions/uebersicht",
+              "path": "/docs/instructions/uebersicht",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/basics",
               "path": "/docs/category/basics",
               "sidebar": "tutorialSidebar"

@@ -91,6 +91,11 @@ export default {
           "position": "left"
         },
         {
+          "to": "https://goldeimer.de/pages/kontakt",
+          "label": "Kontakt",
+          "position": "left"
+        },
+        {
           "type": "localeDropdown",
           "position": "right",
           "dropdownItemsBefore": [],

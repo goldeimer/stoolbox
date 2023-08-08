@@ -92,11 +92,16 @@ const config = {
             label: 'Tutorial',
           },
           {
-	    to: '/donation/',
-	    label: 'Spenden',
+            to: '/donation/',
+            label: 'Spenden',
             position: 'left'
-	  },
-	  {
+          },
+          {
+            to: 'https://goldeimer.de/pages/kontakt',
+            label: 'Kontakt',
+            position: 'left'
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },

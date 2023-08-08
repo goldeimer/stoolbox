@@ -727,6 +727,10 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
+                "title": "uebersicht",
+                "permalink": "/docs/instructions/uebersicht"
+              },
+              "next": {
                 "title": "Trenneinsatz DIY",
                 "permalink": "/docs/instructions/trenneinsatz-diy"
               }
@@ -742,6 +746,29 @@
               "permalink": "/docs/instructions/trenneinsatz-diy",
               "draft": false,
               "editUrl": "https://github.com/goldeimer/stoolbox/versioned_docs/version-1.2.0/instructions/trenneinsatz-diy.md",
+              "tags": [],
+              "version": "1.2.0",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Goldeimer DIY",
+                "permalink": "/docs/goldeimer-diy"
+              }
+            },
+            {
+              "unversionedId": "instructions/uebersicht",
+              "id": "version-1.2.0/instructions/uebersicht",
+              "title": "uebersicht",
+              "description": "Nutzungen",
+              "source": "@site/versioned_docs/version-1.2.0/instructions/uebersicht.mdx",
+              "sourceDirName": "instructions",
+              "slug": "/instructions/uebersicht",
+              "permalink": "/docs/instructions/uebersicht",
+              "draft": false,
+              "editUrl": "https://github.com/goldeimer/stoolbox/versioned_docs/version-1.2.0/instructions/uebersicht.mdx",
               "tags": [],
               "version": "1.2.0",
               "sidebarPosition": 1,
@@ -810,12 +837,16 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "version-1.2.0/instructions/trenneinsatz-diy"
+                    "id": "version-1.2.0/instructions/uebersicht"
                   },
                   {
                     "type": "doc",
                     "id": "version-1.2.0/instructions/goldeimer-diy",
                     "label": "Goldeimer DIY"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.2.0/instructions/trenneinsatz-diy"
                   }
                 ],
                 "link": {

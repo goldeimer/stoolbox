@@ -120,7 +120,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-next-why-open-source-hardware-2-c-3-55e"
   },
-  "/docs-4e1": {
+  "/docs-496": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-next-7-b-7-30e"
@@ -158,6 +158,10 @@
   "/docs/instructions/trenneinsatz-diy-24f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-instructions-trenneinsatz-diyfee-41d"
+  },
+  "/docs/instructions/uebersicht-158": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-instructions-uebersichtf-13-440"
   },
   "/docs/why-open-source-hardware-f42": {
     "__comp": "__comp---theme-doc-item-178-a40",

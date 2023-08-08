@@ -34,6 +34,10 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
+    "title": "uebersicht",
+    "permalink": "/docs/instructions/uebersicht"
+  },
+  "next": {
     "title": "Trenneinsatz DIY",
     "permalink": "/docs/instructions/trenneinsatz-diy"
   }

@@ -57,15 +57,21 @@
         "items": [
           {
             "type": "link",
-            "label": "Trenneinsatz DIY",
-            "href": "/docs/instructions/trenneinsatz-diy",
-            "docId": "instructions/trenneinsatz-diy"
+            "label": "uebersicht",
+            "href": "/docs/instructions/uebersicht",
+            "docId": "instructions/uebersicht"
           },
           {
             "type": "link",
             "label": "Goldeimer DIY",
             "href": "/docs/goldeimer-diy",
             "docId": "instructions/goldeimer-diy"
+          },
+          {
+            "type": "link",
+            "label": "Trenneinsatz DIY",
+            "href": "/docs/instructions/trenneinsatz-diy",
+            "docId": "instructions/trenneinsatz-diy"
           }
         ],
         "href": "/docs/category/instructions"
@@ -113,6 +119,12 @@
       "id": "instructions/trenneinsatz-diy",
       "title": "Trenneinsatz DIY",
       "description": "Hier findest du einen Bauplan für den Goldeimer DIY Trenneinsatz",
+      "sidebar": "tutorialSidebar"
+    },
+    "instructions/uebersicht": {
+      "id": "instructions/uebersicht",
+      "title": "uebersicht",
+      "description": "Nutzungen",
       "sidebar": "tutorialSidebar"
     }
   }
