@@ -25,12 +25,12 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de','ls-de', 'en', 'es', 'fr'],
+    locales: ['de','ls', 'en', 'es', 'fr'],
     localeConfigs: {
 	de: {
 	 	label: 'Deutsch',
 	},
-	lsde: {
+	ls: {
  		label: 'Deutsch (Leichte Sprache)',
     	},
 	en: {
@@ -82,8 +82,7 @@ const config = {
         logo: {
           alt: 'sToolbox Logo',
           src: '/img/goldeimer-logo.png',
-          width: '200px',
-          height: 'auto',
+          width: '100px',
         },
         items: [
           {
@@ -108,11 +107,16 @@ const config = {
           },
         ],
       },
-      	matomo: {
-      		matomoUrl: 'https://goldi.uber.space/matomo/',
-      		siteId: '3',
-      		phpLoader: 'matomo.php',
-      		jsLoader: 'matomo.js',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
+      matomo: {
+        matomoUrl: 'https://goldi.uber.space/matomo/',
+        siteId: '3',
+        phpLoader: 'matomo.php',
+        jsLoader: 'matomo.js',
     	},
 	algolia: {
 	      // The application ID provided by Algolia

@@ -17,7 +17,7 @@ export default {
     "defaultLocale": "de",
     "locales": [
       "de",
-      "ls-de",
+      "ls",
       "en",
       "es",
       "fr"
@@ -27,7 +27,7 @@ export default {
         "label": "Deutsch",
         "direction": "ltr"
       },
-      "lsde": {
+      "ls": {
         "label": "Deutsch (Leichte Sprache)",
         "direction": "ltr"
       },
@@ -76,8 +76,7 @@ export default {
       "logo": {
         "alt": "sToolbox Logo",
         "src": "/img/goldeimer-logo.png",
-        "width": "200px",
-        "height": "auto"
+        "width": "100px"
       },
       "items": [
         {
@@ -104,6 +103,11 @@ export default {
         }
       ],
       "hideOnScroll": false
+    },
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": true,
+      "respectPrefersColorScheme": false
     },
     "matomo": {
       "matomoUrl": "https://goldi.uber.space/matomo/",
@@ -170,7 +174,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Goldeimer gGmbH, Netzwerk für nachhaltige Sanitärsysteme e.V."
+      "copyright": "sToolbox © 2023 powered by Goldeimer gGmbH"
     },
     "prism": {
       "theme": {
@@ -375,11 +379,6 @@ export default {
           }
         }
       ]
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
     },
     "docs": {
       "versionPersistence": "localStorage",

@@ -36,5 +36,9 @@
   "previous": {
     "title": "Goldeimer DIY",
     "permalink": "/docs/next/goldeimer-diy"
+  },
+  "next": {
+    "title": "DIY-Trenneinsatz",
+    "permalink": "/docs/next/instructions/trenneinsatz-diy"
   }
 }

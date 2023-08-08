@@ -69,16 +69,16 @@
     },
     "config": "config---donation-5-e-9-4ad"
   },
-  "/docs/next-017": {
+  "/docs/next-dad": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-next-7-b-7-30e"
     },
     "versionMetadata": "versionMetadata---docs-next-935-7db"
   },
-  "/docs/next/basics-5da": {
+  "/docs/next/basics-ab1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-basics-4-e-1-639"
+    "content": "content---docs-next-basics-94-e-e2f"
   },
   "/docs/next/basics/markdown-features-eac": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -92,31 +92,35 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-instructionsa-29-396"
   },
-  "/docs/next/fermentation-composting-5fd": {
+  "/docs/next/changelog-5bf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-fermentation-composting-08-e-880"
+    "content": "content---docs-next-changelog-893-fd7"
+  },
+  "/docs/next/fermentation-composting-346": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-next-fermentation-compostinge-8-c-6b3"
   },
   "/docs/next/festival-diy-fb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-next-festival-diya-75-a20"
   },
-  "/docs/next/goldeimer-diy-fb4": {
+  "/docs/next/goldeimer-diy-22b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-goldeimer-diyfee-93d"
+    "content": "content---docs-next-goldeimer-diy-5-c-7-ebb"
   },
-  "/docs/next/how-to-stoolbox-346": {
+  "/docs/next/how-to-stoolbox-227": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-how-to-stoolboxc-4-d-ba6"
+    "content": "content---docs-next-how-to-stoolboxfcc-d72"
   },
-  "/docs/next/instructions/trenneinsatz-diy-c84": {
+  "/docs/next/instructions/trenneinsatz-diy-b6a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-instructions-trenneinsatz-diyacb-d63"
+    "content": "content---docs-next-instructions-trenneinsatz-diy-859-f63"
   },
-  "/docs/next/why-open-source-hardware-e56": {
+  "/docs/next/why-open-source-hardware-5e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-why-open-source-hardware-8-e-9-3cf"
+    "content": "content---docs-next-why-open-source-hardware-2-c-3-55e"
   },
-  "/docs-47c": {
+  "/docs-4e1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-next-7-b-7-30e"
@@ -134,6 +138,10 @@
   "/docs/category/instructions-a4f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-instructions-1-e-0-6f7"
+  },
+  "/docs/changelog-293": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basics-changelog-416-6b3"
   },
   "/docs/fermentation-composting-a50": {
     "__comp": "__comp---theme-doc-item-178-a40",

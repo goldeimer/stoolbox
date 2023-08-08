@@ -39,6 +39,12 @@
             "label": "How to sToolbox",
             "href": "/docs/how-to-stoolbox",
             "docId": "basics/how-to-stoolbox"
+          },
+          {
+            "type": "link",
+            "label": "Changelog",
+            "href": "/docs/changelog",
+            "docId": "basics/changelog"
           }
         ],
         "href": "/docs/category/basics"
@@ -71,6 +77,12 @@
       "id": "basics/basics",
       "title": "Basics",
       "description": "Alles für den Einstieg",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/changelog": {
+      "id": "basics/changelog",
+      "title": "Changelog",
+      "description": "Was gibts neues, und was erwartet dich noch?",
       "sidebar": "tutorialSidebar"
     },
     "basics/fermentation-composting": {

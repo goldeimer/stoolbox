@@ -45,6 +45,12 @@
             "label": "Markdown Features",
             "href": "/docs/next/basics/markdown-features",
             "docId": "basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Changelog",
+            "href": "/docs/next/changelog",
+            "docId": "basics/changelog"
           }
         ],
         "href": "/docs/next/category/basics"
@@ -57,12 +63,6 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/next/instructions/trenneinsatz-diy",
-            "docId": "instructions/trenneinsatz-diy"
-          },
-          {
-            "type": "link",
             "label": "Goldeimer DIY",
             "href": "/docs/next/goldeimer-diy",
             "docId": "instructions/goldeimer-diy"
@@ -72,6 +72,12 @@
             "label": "Festival DIY",
             "href": "/docs/next/festival-diy",
             "docId": "instructions/festival-diy"
+          },
+          {
+            "type": "link",
+            "label": "DIY-Trenneinsatz",
+            "href": "/docs/next/instructions/trenneinsatz-diy",
+            "docId": "instructions/trenneinsatz-diy"
           }
         ],
         "href": "/docs/next/category/instructions"
@@ -83,6 +89,12 @@
       "id": "basics/basics",
       "title": "Basics",
       "description": "Alles für den Einstieg",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/changelog": {
+      "id": "basics/changelog",
+      "title": "Changelog",
+      "description": "Was gibts neues, und was erwartet dich noch?",
       "sidebar": "tutorialSidebar"
     },
     "basics/fermentation-composting": {
@@ -123,8 +135,8 @@
     },
     "instructions/trenneinsatz-diy": {
       "id": "instructions/trenneinsatz-diy",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+      "title": "DIY-Trenneinsatz",
+      "description": "Wie baue ich einen Trenneinsatz für Urin und Kot aus einen Eimer?",
       "sidebar": "tutorialSidebar"
     }
   }

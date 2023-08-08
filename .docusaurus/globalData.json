@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "basics/changelog",
+              "path": "/docs/next/changelog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "basics/fermentation-composting",
               "path": "/docs/next/fermentation-composting",
               "sidebar": "tutorialSidebar"
@@ -81,6 +86,11 @@
             {
               "id": "basics/basics",
               "path": "/docs/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/changelog",
+              "path": "/docs/changelog",
               "sidebar": "tutorialSidebar"
             },
             {

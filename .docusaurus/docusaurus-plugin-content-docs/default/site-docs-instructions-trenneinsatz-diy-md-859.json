@@ -1,27 +1,23 @@
 {
   "unversionedId": "instructions/trenneinsatz-diy",
   "id": "instructions/trenneinsatz-diy",
-  "title": "Manage Docs Versions",
-  "description": "Docusaurus can manage multiple versions of your docs.",
+  "title": "DIY-Trenneinsatz",
+  "description": "Wie baue ich einen Trenneinsatz für Urin und Kot aus einen Eimer?",
   "source": "@site/docs/instructions/trenneinsatz-diy.md",
   "sourceDirName": "instructions",
   "slug": "/instructions/trenneinsatz-diy",
-  "permalink": "/fr/docs/instructions/trenneinsatz-diy",
+  "permalink": "/docs/next/instructions/trenneinsatz-diy",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/instructions/trenneinsatz-diy.md",
+  "editUrl": "https://github.com/goldeimer/stoolbox/docs/instructions/trenneinsatz-diy.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Instructions",
-    "permalink": "/fr/docs/category/instructions"
-  },
-  "next": {
-    "title": "Goldeimer DIY",
-    "permalink": "/fr/docs/goldeimer-diy"
+    "title": "Festival DIY",
+    "permalink": "/docs/next/festival-diy"
   }
 }

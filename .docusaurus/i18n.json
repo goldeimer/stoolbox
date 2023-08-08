@@ -2,7 +2,7 @@
   "defaultLocale": "de",
   "locales": [
     "de",
-    "ls-de",
+    "ls",
     "en",
     "es",
     "fr"
@@ -17,12 +17,12 @@
       "calendar": "gregory",
       "path": "de"
     },
-    "ls-de": {
-      "label": "Ls (Germany)",
+    "ls": {
+      "label": "Deutsch (Leichte Sprache)",
       "direction": "ltr",
-      "htmlLang": "ls-de",
+      "htmlLang": "ls",
       "calendar": "gregory",
-      "path": "ls-de"
+      "path": "ls"
     },
     "en": {
       "label": "English",

@@ -5,12 +5,12 @@
   "permalink": "/docs/next/category/instructions",
   "navigation": {
     "previous": {
-      "title": "Markdown Features",
-      "permalink": "/docs/next/basics/markdown-features"
+      "title": "Changelog",
+      "permalink": "/docs/next/changelog"
     },
     "next": {
-      "title": "Manage Docs Versions",
-      "permalink": "/docs/next/instructions/trenneinsatz-diy"
+      "title": "Goldeimer DIY",
+      "permalink": "/docs/next/goldeimer-diy"
     }
   }
 }

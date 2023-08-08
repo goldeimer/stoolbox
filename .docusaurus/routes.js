@@ -59,11 +59,11 @@ export default [
   },
   {
     path: '/docs/next',
-    component: ComponentCreator('/docs/next', '017'),
+    component: ComponentCreator('/docs/next', 'dad'),
     routes: [
       {
         path: '/docs/next/basics',
-        component: ComponentCreator('/docs/next/basics', '5da'),
+        component: ComponentCreator('/docs/next/basics', 'ab1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -86,8 +86,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/next/changelog',
+        component: ComponentCreator('/docs/next/changelog', '5bf'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/next/fermentation-composting',
-        component: ComponentCreator('/docs/next/fermentation-composting', '5fd'),
+        component: ComponentCreator('/docs/next/fermentation-composting', '346'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -99,25 +105,25 @@ export default [
       },
       {
         path: '/docs/next/goldeimer-diy',
-        component: ComponentCreator('/docs/next/goldeimer-diy', 'fb4'),
+        component: ComponentCreator('/docs/next/goldeimer-diy', '22b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/next/how-to-stoolbox',
-        component: ComponentCreator('/docs/next/how-to-stoolbox', '346'),
+        component: ComponentCreator('/docs/next/how-to-stoolbox', '227'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/next/instructions/trenneinsatz-diy',
-        component: ComponentCreator('/docs/next/instructions/trenneinsatz-diy', 'c84'),
+        component: ComponentCreator('/docs/next/instructions/trenneinsatz-diy', 'b6a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/next/why-open-source-hardware',
-        component: ComponentCreator('/docs/next/why-open-source-hardware', 'e56'),
+        component: ComponentCreator('/docs/next/why-open-source-hardware', '5e2'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
@@ -125,7 +131,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '47c'),
+    component: ComponentCreator('/docs', '4e1'),
     routes: [
       {
         path: '/docs/basics',
@@ -142,6 +148,12 @@ export default [
       {
         path: '/docs/category/instructions',
         component: ComponentCreator('/docs/category/instructions', 'a4f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/changelog',
+        component: ComponentCreator('/docs/changelog', '293'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

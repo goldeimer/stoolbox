@@ -1187,7 +1187,7 @@ hr {
   width: var(--ifm-avatar-photo-size)
 }
 
-.card--full-height,.navbar__logo img,body,html {
+.card--full-height,body,html {
   height: 100%
 }
 

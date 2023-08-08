@@ -1,0 +1,44 @@
+{
+  "unversionedId": "basics/changelog",
+  "id": "version-1.2.0/basics/changelog",
+  "title": "Changelog",
+  "description": "Was gibts neues, und was erwartet dich noch?",
+  "source": "@site/versioned_docs/version-1.2.0/basics/changelog.mdx",
+  "sourceDirName": "basics",
+  "slug": "/changelog",
+  "permalink": "/docs/changelog",
+  "draft": false,
+  "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/changelog.md",
+  "tags": [],
+  "version": "1.2.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "changelog",
+    "title": "Changelog",
+    "hide_title": false,
+    "hide_table_of_contents": false,
+    "sidebar_label": "Changelog",
+    "sidebar_position": 5,
+    "custom_edit_url": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/changelog.md",
+    "description": "Was gibts neues, und was erwartet dich noch?",
+    "keywords": [
+      "changelog",
+      "features"
+    ],
+    "image": "https://i.imgur.com/mErPwqL.png",
+    "slug": "/changelog",
+    "last_update": {
+      "date": "08/01/23",
+      "author": "Frederik Gottemeyer"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to sToolbox",
+    "permalink": "/docs/how-to-stoolbox"
+  },
+  "next": {
+    "title": "Instructions",
+    "permalink": "/docs/category/instructions"
+  }
+}
