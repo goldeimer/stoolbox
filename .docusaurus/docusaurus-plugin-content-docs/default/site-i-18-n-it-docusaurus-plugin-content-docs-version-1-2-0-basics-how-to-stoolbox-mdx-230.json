@@ -1,0 +1,44 @@
+{
+  "unversionedId": "basics/how-to-stoolbox",
+  "id": "version-1.2.0/basics/how-to-stoolbox",
+  "title": "How to sToolbox",
+  "description": "Wie man die Dokumentation für die sToolbox oder Docusaurus schreibt",
+  "source": "@site/i18n/it/docusaurus-plugin-content-docs/version-1.2.0/basics/how-to-stoolbox.mdx",
+  "sourceDirName": "basics",
+  "slug": "/how-to-stoolbox",
+  "permalink": "/it/docs/how-to-stoolbox",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+  "tags": [],
+  "version": "1.2.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "how-to-stoolbox",
+    "title": "How to sToolbox",
+    "hide_title": false,
+    "hide_table_of_contents": false,
+    "sidebar_label": "How to sToolbox",
+    "sidebar_position": 3,
+    "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+    "description": "Wie man die Dokumentation für die sToolbox oder Docusaurus schreibt",
+    "keywords": [
+      "docs",
+      "docusaurus"
+    ],
+    "image": "https://i.imgur.com/mErPwqL.png",
+    "slug": "/how-to-stoolbox",
+    "last_update": {
+      "date": "12/16/22",
+      "author": "Frederik Gottemeyer"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why Open-Source-Hardware",
+    "permalink": "/it/docs/why-open-source-hardware"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/it/docs/changelog"
+  }
+}

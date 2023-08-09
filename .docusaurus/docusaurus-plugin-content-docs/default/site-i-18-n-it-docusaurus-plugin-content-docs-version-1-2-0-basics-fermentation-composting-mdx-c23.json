@@ -1,0 +1,44 @@
+{
+  "unversionedId": "basics/fermentation-composting",
+  "id": "version-1.2.0/basics/fermentation-composting",
+  "title": "Fermentation & Composting",
+  "description": "Wie kompostiert und fermentierst du deine Hinterlassenschaften",
+  "source": "@site/i18n/it/docusaurus-plugin-content-docs/version-1.2.0/basics/fermentation-composting.mdx",
+  "sourceDirName": "basics",
+  "slug": "/fermentation-composting",
+  "permalink": "/it/docs/fermentation-composting",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+  "tags": [],
+  "version": "1.2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "fermentation-composting",
+    "title": "Fermentation & Composting",
+    "hide_title": false,
+    "hide_table_of_contents": false,
+    "sidebar_label": "Fermentation & Composting",
+    "sidebar_position": 2,
+    "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+    "description": "Wie kompostiert und fermentierst du deine Hinterlassenschaften",
+    "keywords": [
+      "docs",
+      "docusaurus"
+    ],
+    "image": "https://i.imgur.com/mErPwqL.png",
+    "slug": "/fermentation-composting",
+    "last_update": {
+      "date": "12/16/22",
+      "author": "Frederik Gottemeyer"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/it/docs/basics"
+  },
+  "next": {
+    "title": "Why Open-Source-Hardware",
+    "permalink": "/it/docs/why-open-source-hardware"
+  }
+}

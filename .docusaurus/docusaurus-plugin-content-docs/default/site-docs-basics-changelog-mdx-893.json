@@ -6,7 +6,7 @@
   "source": "@site/docs/basics/changelog.mdx",
   "sourceDirName": "basics",
   "slug": "/changelog",
-  "permalink": "/docs/next/changelog",
+  "permalink": "/ls/docs/next/changelog",
   "draft": false,
   "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/changelog.md",
   "tags": [],
@@ -35,10 +35,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Markdown Features",
-    "permalink": "/docs/next/basics/markdown-features"
+    "permalink": "/ls/docs/next/basics/markdown-features"
   },
   "next": {
     "title": "Instructions",
-    "permalink": "/docs/next/category/instructions"
+    "permalink": "/ls/docs/next/category/instructions"
   }
 }

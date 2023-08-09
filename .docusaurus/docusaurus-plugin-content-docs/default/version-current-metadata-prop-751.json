@@ -19,41 +19,41 @@
           {
             "type": "link",
             "label": "Basics",
-            "href": "/docs/next/basics",
+            "href": "/ls/docs/next/basics",
             "docId": "basics/basics"
           },
           {
             "type": "link",
             "label": "Fermentation & Composting",
-            "href": "/docs/next/fermentation-composting",
+            "href": "/ls/docs/next/fermentation-composting",
             "docId": "basics/fermentation-composting"
           },
           {
             "type": "link",
             "label": "Why Open-Source-Hardware",
-            "href": "/docs/next/why-open-source-hardware",
+            "href": "/ls/docs/next/why-open-source-hardware",
             "docId": "basics/why-open-source-hardware"
           },
           {
             "type": "link",
             "label": "How to sToolbox",
-            "href": "/docs/next/how-to-stoolbox",
+            "href": "/ls/docs/next/how-to-stoolbox",
             "docId": "basics/how-to-stoolbox"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/next/basics/markdown-features",
+            "href": "/ls/docs/next/basics/markdown-features",
             "docId": "basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Changelog",
-            "href": "/docs/next/changelog",
+            "href": "/ls/docs/next/changelog",
             "docId": "basics/changelog"
           }
         ],
-        "href": "/docs/next/category/basics"
+        "href": "/ls/docs/next/category/basics"
       },
       {
         "type": "category",
@@ -63,24 +63,24 @@
         "items": [
           {
             "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/ls/docs/next/instructions/trenneinsatz-diy",
+            "docId": "instructions/trenneinsatz-diy"
+          },
+          {
+            "type": "link",
             "label": "Goldeimer DIY",
-            "href": "/docs/next/goldeimer-diy",
+            "href": "/ls/docs/next/goldeimer-diy",
             "docId": "instructions/goldeimer-diy"
           },
           {
             "type": "link",
             "label": "Festival DIY",
-            "href": "/docs/next/festival-diy",
+            "href": "/ls/docs/next/festival-diy",
             "docId": "instructions/festival-diy"
-          },
-          {
-            "type": "link",
-            "label": "DIY-Trenneinsatz",
-            "href": "/docs/next/instructions/trenneinsatz-diy",
-            "docId": "instructions/trenneinsatz-diy"
           }
         ],
-        "href": "/docs/next/category/instructions"
+        "href": "/ls/docs/next/category/instructions"
       }
     ]
   },
@@ -135,8 +135,8 @@
     },
     "instructions/trenneinsatz-diy": {
       "id": "instructions/trenneinsatz-diy",
-      "title": "DIY-Trenneinsatz",
-      "description": "Wie baue ich einen Trenneinsatz für Urin und Kot aus einen Eimer?",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
       "sidebar": "tutorialSidebar"
     }
   }

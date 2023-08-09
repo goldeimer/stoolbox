@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.2.0/instructions/goldeimer-diy.md",
   "sourceDirName": "instructions",
   "slug": "/goldeimer-diy",
-  "permalink": "/docs/goldeimer-diy",
+  "permalink": "/it/docs/goldeimer-diy",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
   "tags": [],
@@ -35,10 +35,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "uebersicht",
-    "permalink": "/docs/instructions/uebersicht"
+    "permalink": "/it/docs/instructions/uebersicht"
   },
   "next": {
     "title": "Trenneinsatz DIY",
-    "permalink": "/docs/instructions/trenneinsatz-diy"
+    "permalink": "/it/docs/instructions/trenneinsatz-diy"
   }
 }

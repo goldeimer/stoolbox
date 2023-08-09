@@ -1,177 +1,177 @@
 {
-  "/__docusaurus/debug-58e": {
+  "/ls/__docusaurus/debug-c67": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
+      "plugin": "plugin---ls-docusaurus-debug-2-d-3-d85"
     }
   },
-  "/__docusaurus/debug/config-6a0": {
+  "/ls/__docusaurus/debug/config-203": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
+      "plugin": "plugin---ls-docusaurus-debug-2-d-3-d85"
     }
   },
-  "/__docusaurus/debug/content-d5c": {
+  "/ls/__docusaurus/debug/content-ef6": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
+      "plugin": "plugin---ls-docusaurus-debug-2-d-3-d85"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---ls-docusaurus-debug-content-246-cdf"
   },
-  "/__docusaurus/debug/globalData-fe8": {
+  "/ls/__docusaurus/debug/globalData-26b": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
+      "plugin": "plugin---ls-docusaurus-debug-2-d-3-d85"
     }
   },
-  "/__docusaurus/debug/metadata-56f": {
+  "/ls/__docusaurus/debug/metadata-a9b": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
+      "plugin": "plugin---ls-docusaurus-debug-2-d-3-d85"
     }
   },
-  "/__docusaurus/debug/registry-e5b": {
+  "/ls/__docusaurus/debug/registry-913": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
+      "plugin": "plugin---ls-docusaurus-debug-2-d-3-d85"
     }
   },
-  "/__docusaurus/debug/routes-cdb": {
+  "/ls/__docusaurus/debug/routes-52c": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-2-d-3-a90"
+      "plugin": "plugin---ls-docusaurus-debug-2-d-3-d85"
     }
   },
-  "/donation-519": {
+  "/ls/donation-8f9": {
     "__comp": "__comp---site-src-pages-donation-js-48-e-131",
     "__context": {
-      "plugin": "plugin---donation-24-d-7ea"
+      "plugin": "plugin---ls-donation-24-d-01a"
     },
-    "config": "config---donation-5-e-9-4ad"
+    "config": "config---ls-donation-5-e-9-16b"
   },
-  "/markdown-page-634": {
+  "/ls/markdown-page-4b0": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---donation-24-d-7ea"
+      "plugin": "plugin---ls-donation-24-d-01a"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---ls-markdown-page-393-796"
   },
-  "/search-60d": {
+  "/ls/search-880": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "plugin---search-5-f-6-fe8"
+      "plugin": "plugin---ls-search-5-f-6-9e5"
     }
   },
-  "/temp_index-c8a": {
+  "/ls/temp_index-8ae": {
     "__comp": "__comp---site-src-pages-temp-index-js-915-680",
     "__context": {
-      "plugin": "plugin---donation-24-d-7ea"
+      "plugin": "plugin---ls-donation-24-d-01a"
     },
-    "config": "config---donation-5-e-9-4ad"
+    "config": "config---ls-donation-5-e-9-16b"
   },
-  "/docs/next-dad": {
+  "/ls/docs/next-a0c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-next-7-b-7-30e"
+      "plugin": "plugin---ls-docs-next-7-b-7-b26"
     },
-    "versionMetadata": "versionMetadata---docs-next-935-7db"
+    "versionMetadata": "versionMetadata---ls-docs-next-935-0b5"
   },
-  "/docs/next/basics-ab1": {
+  "/ls/docs/next/basics-0c5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-basics-94-e-e2f"
+    "content": "content---ls-docs-next-basicsdfb-8b5"
   },
-  "/docs/next/basics/markdown-features-eac": {
+  "/ls/docs/next/basics/markdown-features-72a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-basics-markdown-features-557-bfd"
+    "content": "content---ls-docs-next-basics-markdown-featuresad-5-bed"
   },
-  "/docs/next/category/basics-48a": {
+  "/ls/docs/next/category/basics-b8c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-basics-0-a-4-ce7"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ls-docs-next-category-basicse-99-81c"
   },
-  "/docs/next/category/instructions-a64": {
+  "/ls/docs/next/category/instructions-4e7": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-instructionsa-29-396"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ls-docs-next-category-instructions-3-af-2c0"
   },
-  "/docs/next/changelog-5bf": {
+  "/ls/docs/next/changelog-3a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-changelog-893-fd7"
+    "content": "content---ls-docs-next-changelog-893-343"
   },
-  "/docs/next/fermentation-composting-346": {
+  "/ls/docs/next/fermentation-composting-32a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-fermentation-compostinge-8-c-6b3"
+    "content": "content---ls-docs-next-fermentation-compostingf-37-893"
   },
-  "/docs/next/festival-diy-fb4": {
+  "/ls/docs/next/festival-diy-d92": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-festival-diya-75-a20"
+    "content": "content---ls-docs-next-festival-diya-75-914"
   },
-  "/docs/next/goldeimer-diy-22b": {
+  "/ls/docs/next/goldeimer-diy-0fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-goldeimer-diy-5-c-7-ebb"
+    "content": "content---ls-docs-next-goldeimer-diy-095-a60"
   },
-  "/docs/next/how-to-stoolbox-227": {
+  "/ls/docs/next/how-to-stoolbox-0b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-how-to-stoolboxfcc-d72"
+    "content": "content---ls-docs-next-how-to-stoolboxaba-60f"
   },
-  "/docs/next/instructions/trenneinsatz-diy-b6a": {
+  "/ls/docs/next/instructions/trenneinsatz-diy-afb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-instructions-trenneinsatz-diy-859-f63"
+    "content": "content---ls-docs-next-instructions-trenneinsatz-diy-605-740"
   },
-  "/docs/next/why-open-source-hardware-5e2": {
+  "/ls/docs/next/why-open-source-hardware-f0f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-why-open-source-hardware-2-c-3-55e"
+    "content": "content---ls-docs-next-why-open-source-hardwareab-7-0b3"
   },
-  "/docs-496": {
+  "/ls/docs-e3e": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-next-7-b-7-30e"
+      "plugin": "plugin---ls-docs-next-7-b-7-b26"
     },
-    "versionMetadata": "versionMetadata---docs-055-6a3"
+    "versionMetadata": "versionMetadata---ls-docs-055-d3f"
   },
-  "/docs/basics-671": {
+  "/ls/docs/basics-608": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-basics-9-b-0-d8c"
+    "content": "content---ls-docs-basicse-83-d49"
   },
-  "/docs/category/basics-dd3": {
+  "/ls/docs/category/basics-e18": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-basics-58-a-6c4"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ls-docs-category-basicsd-58-9e3"
   },
-  "/docs/category/instructions-a4f": {
+  "/ls/docs/category/instructions-f7a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-instructions-1-e-0-6f7"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ls-docs-category-instructions-650-588"
   },
-  "/docs/changelog-293": {
+  "/ls/docs/changelog-788": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-changelog-416-9ba"
+    "content": "content---ls-docs-changelog-416-a2e"
   },
-  "/docs/fermentation-composting-a50": {
+  "/ls/docs/fermentation-composting-912": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fermentation-compostingaf-7-3a4"
+    "content": "content---ls-docs-fermentation-compostingaf-7-bc3"
   },
-  "/docs/goldeimer-diy-c60": {
+  "/ls/docs/goldeimer-diy-331": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-goldeimer-diyceb-e5b"
+    "content": "content---ls-docs-goldeimer-diy-9-e-2-559"
   },
-  "/docs/how-to-stoolbox-f29": {
+  "/ls/docs/how-to-stoolbox-e55": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-stoolboxdb-8-6c9"
+    "content": "content---ls-docs-how-to-stoolbox-5-f-4-80e"
   },
-  "/docs/instructions/trenneinsatz-diy-24f": {
+  "/ls/docs/instructions/trenneinsatz-diy-384": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-instructions-trenneinsatz-diyfee-41d"
+    "content": "content---ls-docs-instructions-trenneinsatz-diyc-07-9f5"
   },
-  "/docs/instructions/uebersicht-158": {
+  "/ls/docs/instructions/uebersicht-a89": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-instructions-uebersichtf-13-440"
+    "content": "content---ls-docs-instructions-uebersichtf-13-a42"
   },
-  "/docs/why-open-source-hardware-f42": {
+  "/ls/docs/why-open-source-hardware-c9c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-why-open-source-hardware-3-e-7-8aa"
+    "content": "content---ls-docs-why-open-source-hardware-9-ee-7f6"
   },
-  "/-af0": {
+  "/ls/-102": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---donation-24-d-7ea"
+      "plugin": "plugin---ls-donation-24-d-01a"
     },
-    "config": "config---donation-5-e-9-4ad"
+    "config": "config---ls-donation-5-e-9-16b"
   }
 }

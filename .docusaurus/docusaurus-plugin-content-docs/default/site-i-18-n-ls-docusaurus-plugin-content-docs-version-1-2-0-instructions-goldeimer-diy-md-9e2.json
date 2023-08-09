@@ -1,0 +1,40 @@
+{
+  "unversionedId": "instructions/goldeimer-diy",
+  "id": "version-1.2.0/instructions/goldeimer-diy",
+  "title": "Goldeimers DIY Trockentoilette",
+  "description": "Bauanleitung für eine DIY Trockentoilette",
+  "source": "@site/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0/instructions/goldeimer-diy.md",
+  "sourceDirName": "instructions",
+  "slug": "/goldeimer-diy",
+  "permalink": "/ls/docs/goldeimer-diy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+  "tags": [],
+  "version": "1.2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "goldeimer-diy",
+    "title": "Goldeimers DIY Trockentoilette",
+    "hide_title": false,
+    "hide_table_of_contents": false,
+    "sidebar_label": "Goldeimer DIY",
+    "sidebar_position": 2,
+    "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+    "description": "Bauanleitung für eine DIY Trockentoilette",
+    "keywords": [
+      "docs",
+      "docusaurus"
+    ],
+    "image": "https://i.imgur.com/mErPwqL.png",
+    "slug": "/goldeimer-diy",
+    "last_update": {
+      "date": "12/16/22",
+      "author": "Frederik Gottemeyer"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uebersicht",
+    "permalink": "/ls/docs/instructions/uebersicht"
+  }
+}

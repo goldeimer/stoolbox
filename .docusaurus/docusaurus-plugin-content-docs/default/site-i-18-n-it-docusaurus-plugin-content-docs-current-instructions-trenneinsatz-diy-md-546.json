@@ -1,0 +1,27 @@
+{
+  "unversionedId": "instructions/trenneinsatz-diy",
+  "id": "instructions/trenneinsatz-diy",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/i18n/it/docusaurus-plugin-content-docs/current/instructions/trenneinsatz-diy.md",
+  "sourceDirName": "instructions",
+  "slug": "/instructions/trenneinsatz-diy",
+  "permalink": "/it/docs/next/instructions/trenneinsatz-diy",
+  "draft": false,
+  "editUrl": "https://github.com/goldeimer/stoolbox/docs/instructions/trenneinsatz-diy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instructions",
+    "permalink": "/it/docs/next/category/instructions"
+  },
+  "next": {
+    "title": "Goldeimer DIY",
+    "permalink": "/it/docs/next/goldeimer-diy"
+  }
+}

@@ -6,7 +6,7 @@
   "source": "@site/docs/basics/fermentation-composting.mdx",
   "sourceDirName": "basics",
   "slug": "/fermentation-composting",
-  "permalink": "/docs/next/fermentation-composting",
+  "permalink": "/it/docs/next/fermentation-composting",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
   "tags": [],
@@ -35,10 +35,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Basics",
-    "permalink": "/docs/next/basics"
+    "permalink": "/it/docs/next/basics"
   },
   "next": {
     "title": "Why Open-Source-Hardware",
-    "permalink": "/docs/next/why-open-source-hardware"
+    "permalink": "/it/docs/next/why-open-source-hardware"
   }
 }

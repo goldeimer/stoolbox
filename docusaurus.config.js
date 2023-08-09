@@ -60,9 +60,18 @@ const config = {
         direction: 'ltr',
         calendar: 'gregory',
         path: 'fr',
-      },
+      }
     }
   },
+  scripts: [
+    // String format.
+    //'https://cdn.userway.org/widget.js" data-account="XJKGmFikiv"',
+    // Object format.
+    {
+      src: 'https://cdn.userway.org/widget.js" data-account="XJKGmFikiv"',
+      async: true,
+    },
+  ],
 
   presets: [
     [

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/markdown-features",
+  "id": "basics/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/i18n/it/docusaurus-plugin-content-docs/current/basics/markdown-features.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/markdown-features",
+  "permalink": "/it/docs/next/basics/markdown-features",
+  "draft": false,
+  "editUrl": "https://github.com/goldeimer/stoolbox/docs/basics/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to sToolbox",
+    "permalink": "/it/docs/next/how-to-stoolbox"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/it/docs/next/changelog"
+  }
+}
