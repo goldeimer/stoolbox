@@ -1,0 +1,38 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Informationen": {
+    "message": "Informationen",
+    "description": "The title of the footer links column with title=Informationen in the footer"
+  },
+  "link.title.Powered by": {
+    "message": "Powered by",
+    "description": "The title of the footer links column with title=Powered by in the footer"
+  },
+  "link.title.Gefördert durch": {
+    "message": "Gefördert durch",
+    "description": "The title of the footer links column with title=Gefördert durch in the footer"
+  },
+  "link.item.label.Basics": {
+    "message": "Basics",
+    "description": "The label of footer link with label=Basics linking to docs/category/basics"
+  },
+  "link.item.label.Impressum": {
+    "message": "Impressum",
+    "description": "The label of footer link with label=Impressum linking to https://goldeimer.de/policies/legal-notice"
+  },
+  "link.item.label.Datenschutzerklärung": {
+    "message": "Datenschutzerklärung",
+    "description": "The label of footer link with label=Datenschutzerklärung linking to https://goldeimer.de/policies/privacy-policy"
+  },
+  "link.item.label.Kontakt": {
+    "message": "Kontakt",
+    "description": "The label of footer link with label=Kontakt linking to https://goldeimer.de/pages/kontakt"
+  },
+  "copyright": {
+    "message": "sToolbox © 2023 powered by Goldeimer gGmbH",
+    "description": "The footer copyright"
+  }
+}

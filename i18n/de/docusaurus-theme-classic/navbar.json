@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "sToolbox",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "sToolbox Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Spenden": {
+    "message": "Spenden",
+    "description": "Navbar item with label Spenden"
+  },
+  "item.label.Kontakt": {
+    "message": "Kontakt",
+    "description": "Navbar item with label Kontakt"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
