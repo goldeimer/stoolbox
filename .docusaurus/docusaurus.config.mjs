@@ -60,10 +60,7 @@ export default {
     }
   },
   "scripts": [
-    {
-      "src": "https://cdn.userway.org/widget.js\" data-account=\"XJKGmFikiv\"",
-      "async": true
-    }
+    "https://cdn.userway.org/widget.js\" data-account=\"XJKGmFikiv\""
   ],
   "presets": [
     [
