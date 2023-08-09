@@ -21,41 +21,126 @@ import Giscus from '@site/src/components/HomepageFeatures/giscus';
 
 # Basics
 
-### Advantages & Disadvantages of Composting/Dry Toilets
+### Was sind die Vorteile von einem Trocken-Klo?    
+
+Goldeimer ist der Name von einem Trocken-Klo. 
+Trocken-Klo bedeutet: 
+Das Klo ist ohne Wasser-Spülung. 
+
+Trocken-Klos haben viele Vorteile. 
+Zum Beispiel:
+* Du kannst das Trocken-Klo überall aufbauen. 
+* Das Trocken-Klo braucht keinen Anschluss.
+* Ein normales Klo verbraucht viel Wasser. 
+* Das Trocken-Klo verbraucht kein Wasser.
+* Du machst aus deinem Urin und Kot gute Erde für deinen Garten.
 
 
-There are many reasons why dry toilets make more sense in some places than their flush or chemical counterparts. Dry toilets don't require plumbing or chemical sanitation additives. Not only do they save a lot of resources, but they also allow you to turn your body waste into nutrient-rich soil, which you can use as fertilizer for ornamental plants and fruit trees or shrubs. Sounds like a win-win situation? It is. Nutrients that are important for plants are not disposed of, but made usable for the garden - through composting. We explain how to do that here. [Link zum How To Kompostierung].
+### Wie funktioniert das Trocken-Klo? 
 
-### What is a dry toilet and how does it work? 
+Das Trocken-Klo funktioniert so ähnlich wie ein normales Klo. 
 
-You already know how a toilet works. It isn’t different from a dry toilet. You do your business, take toilet paper and wipe your butt as you go, throw the toilet paper into the toilet and sprinkle it with litter. A variety of organic and natural materials are suitable for use as bedding. Some more - some less. The bedding is mainly used to reduce odors, to visually cover what is left behind, and is the equivalent of a toilet cistern - only (as the name suggests) without any water.
+* Du gehst aufs Klo.
+* Du putzt deinen Po ab.
+* Du wirfst das Klo-Papier ins Klo.
+* Du streust Ein-Streu ins Klo in den Eimer. 
+  Es gibt verschiedene Sorten Ein-Streu. 
+  Die verschiedenen Sorten werden später im Text erklärt. 
+  Durch das Ein-Streu riecht das Klo nicht. 
+  Und andere Menschen sehen den Kot nicht.
+* Wenn der Eimer im Klo voll ist: 
+  Dann leerst du den Eimer aus. 
+  Der Inhalt vom Eimer kommt in einen Komposter. 
+  Ein Komposter ist ein besonderer Behälter. 
+  Nach einer Zeit entsteht Kompost aus dem Abfall. 
+  Kompost ist besonders gute Erde. 
 
-Speaking of water. Clean drinking water flows through our toilet flushes. With an average of 6 - 11 daily trips to the toilet, this accounts for about 30% of your daily drinking water needs. The wastewater is separated and treated in wastewater treatment plants - making dry toilets much more resource-efficient.
+Wie das funktioniert, 
+erklären wir dir später im Text.
 
-There are basically two types of dry toilets - dry separation toilets or simple bucket toilets without separation.  In dry separation toilets, urine is collected separately in the front area and the poop, including litter and toilet paper, in the rear area. In the "one-pot" versions, everything goes into one container together.
+### Es gibt 2 Arten von Trocken-Klos:    
 
-When the container is full, the leftovers are composted and nutrient-rich humus is produced, which is returned to the soil and plants. So the important nutrients are kept in the cycle
+* Trocken-Klos mit Trennung von Urin und Kot,
+* Trocken-Klos ohne Trennung von Urin und Kot.
 
-### Application examples    
+Bei den Trocken-Klos ohne Trennung gibt es einen Eimer. 
+In dem Eimer sammelst du 
+* Urin und Kot,
+* Klo-Papier und
+* Ein-Streu.
 
-Dry toilets are super useful in small gardens, on the road and everywhere where there is no water and sewage connection. They don't need flushing water, no chemicals and, if treated properly, they also make a really good fertilizer that your soil and plants will love. Along the way, you'll close the natural nutrient cycle and do your garden and the environment a big favor.
+Bei den Trocken-Klos mit Trennung 
+gibt es 2 Eimer. Im 1. Eimer sammelst du nur Urin.Im 2. Eimer sammelst du
+* Kot,
+* Klo-Papier und
+* Ein-Streu.
 
-#### Small/urban garden
+### Wo kann ich das Goldeimer Trocken-Klo aufstellen?
+Du kannst das Trocken-Klo an vielen Orten aufstellen. 
+Zum Beispiel:
+* im Klein-Garten,
+* auf Reisen,
+* als öffentliche Toilette.
 
-You are allowed to compost dry toilet contents in your garden, as long as the use of dry toilets is not explicitly prohibited and it is not located in a water protection area. This is the case in only a few gardens. In most, dry toilets are very welcomed and many gardeners have been using them for decades. However, you must make sure that your compost pile does not pose a danger to people or the environment. In any case, make sure that no liquid from the compost can seep into the soil and feel free to ask your allotment club or state association if you are unsure about anything.
+####Im Klein-Garten
+Ein Klein-Garten ist ein Garten ohne Wohn-Haus.
+Es gehören immer mehrere Klein-Gärten zusammen. 
+Einem Verein gehören alle Klein-Gärten. 
+Der Verein vermietet die Klein-Gärten. 
+Die Mieter müssen sich an die Regeln vom Verein halten.
+In den meisten Klein-Gärten sind Trocken-Klos erlaubt. 
 
-We generally recommend composting dry toilet contents in separate composters. Also, you should use the compost produced only to improve the soil in beds for ornamental plants, on fruit trees or fruit bushes. Thus, you avoid possible hygiene risks from suboptimal composting. Either way, you're helping to close nutrient cycles with composting.
+Trocken-Klos sind verboten:
+* wenn das Verbot im Miet-Vertrag steht.
+* wenn der Klein-Garten in einem Wasser-Schutz-Gebiet ist.
 
-We excrete pathogens through our feces and much of the drug residues through our urine. Pathogens are killed during composting. Drug residues are also broken down when the  composting process is done in a professional way, with an adequate, often longer composting time.   In the garden, however, we do not have ideal conditions every time we compost. So if you suffer from an infection or need to take a lot of medication, you should avoid recycling dry toilet contents and choose the disposal route.
+> Nutze für den Kompost vom Trocken-Klo einen eigenen Komposter. 
+Mische nicht den Kompost vom Trocken-Klo mit deinem anderen Kompost.
+Es darf keine Flüssigkeit aus dem Kompost auf die Erde tropfen.
+Nutze den Kompost vom Trocken-Klo nur für:
+* Zier-Pflanzen,
+* Obst-Sträucher,
+* Obst-Bäume.
+Nutze den Kompost vom Trocken-Klo nicht für:
+* Gemüse-Pflanzen
 
-#### On the road
+Nimmst du viele Medikamente? 
+Oder bist du krank? 
+Dann gib in dieser Zeit den Inhalt vom Trocken-Klo nicht in den Kompost. 
+Mach den Inhalt vom Trocken-Klo in dieser Zeit in einem Müll-Beutel. 
+Der Müll-Beutel muss reiß-fest sein. 
+Verschließe den Müll-Beutel gut. 
+Schmeiß den Müll-Beutel in die schwarze Rest-Müll-Tonne. 
 
-You can use your dry toilet on a houseboat, in a camping van, or in another place where you don't have a composting option. Even if you're not recycling nutrients - the dry toilet makes sense for you. Either because you don't want to use your water supply in the bus for flushing, appreciate the self-sufficiency of dry toilets, or don't want to use a chemical toilet for other reasons.
+Wenn du Fragen hast: 
+Frag jemanden vom Klein-Garten-Verein.
 
-#### Public space
 
-Goldeimer has been on the road for many years with mobile dry toilets at major events such as music festivals to demonstrate an alternative to water and chemical toilets. In addition, some cities already have public dry toilets.
+#### Auf Reisen
 
-Moreover, dry toilets offer a way to provide sanitation in places where there is no sewerage system or generally no adequate use of water, such as in some countries of the Global South or in the context of temporary disaster and emergency relief.
+Du kannst das Trocken-Klo auf Reisen nutzen. 
+
+Zum Beispiel:
+* auf einem Haus-Boot,
+* in einem Wohn-Mobil.
+
+Wenn der Eimer voll ist: 
+Mach den Inhalt vom Trocken-Klo in einem Müll-Beutel. 
+Der Müll-Beutel muss reiß-fest sein. 
+Verschließe den Müll-Beutel gut. 
+Schmeiß den Müll-Beutel in die schwarze Rest-Müll-Tonne.
+
+#### Als öffentliche Toilette
+
+In einigen Städten gibt es Trocken-Klos. 
+Die Trocken-Klos sind öffentliche Toiletten. 
+Jeder kann die Trocken-Klos nutzen.
+Manchmal brauchen Menschen an einem Ort für eine kurze Zeit viele Klos. 
+
+Zum Beispiel:
+* bei einem großen Fest,
+* nach einer Flut-Katastrophe.
+
+Die Menschen können an diesem Ort Trocken-Klos aufstellen.
 
 <Giscus />

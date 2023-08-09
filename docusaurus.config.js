@@ -67,10 +67,10 @@ const config = {
     // String format.
     'https://cdn.userway.org/widget.js" data-account="XJKGmFikiv"',
     // Object format.
-    //{
-    //  src: 'https://cdn.userway.org/widget.js" data-account="XJKGmFikiv"',
-    //  async: true,
-    //},
+    {
+      src: 'https://cdn.userway.org/widget.js" data-account="XJKGmFikiv"',
+      async: true,
+    },
   ],
 
   presets: [

@@ -19,35 +19,35 @@
           {
             "type": "link",
             "label": "Basics",
-            "href": "/docs/basics",
+            "href": "/ls/docs/basics",
             "docId": "basics/basics"
           },
           {
             "type": "link",
             "label": "Fermentation & Composting",
-            "href": "/docs/fermentation-composting",
+            "href": "/ls/docs/fermentation-composting",
             "docId": "basics/fermentation-composting"
           },
           {
             "type": "link",
             "label": "Why Open-Source-Hardware",
-            "href": "/docs/why-open-source-hardware",
+            "href": "/ls/docs/why-open-source-hardware",
             "docId": "basics/why-open-source-hardware"
           },
           {
             "type": "link",
             "label": "How to sToolbox",
-            "href": "/docs/how-to-stoolbox",
+            "href": "/ls/docs/how-to-stoolbox",
             "docId": "basics/how-to-stoolbox"
           },
           {
             "type": "link",
             "label": "Changelog",
-            "href": "/docs/changelog",
+            "href": "/ls/docs/changelog",
             "docId": "basics/changelog"
           }
         ],
-        "href": "/docs/category/basics"
+        "href": "/ls/docs/category/basics"
       },
       {
         "type": "category",
@@ -57,24 +57,24 @@
         "items": [
           {
             "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/ls/docs/instructions/trenneinsatz-diy",
+            "docId": "instructions/trenneinsatz-diy"
+          },
+          {
+            "type": "link",
             "label": "uebersicht",
-            "href": "/docs/instructions/uebersicht",
+            "href": "/ls/docs/instructions/uebersicht",
             "docId": "instructions/uebersicht"
           },
           {
             "type": "link",
             "label": "Goldeimer DIY",
-            "href": "/docs/goldeimer-diy",
+            "href": "/ls/docs/goldeimer-diy",
             "docId": "instructions/goldeimer-diy"
-          },
-          {
-            "type": "link",
-            "label": "Trenneinsatz DIY",
-            "href": "/docs/instructions/trenneinsatz-diy",
-            "docId": "instructions/trenneinsatz-diy"
           }
         ],
-        "href": "/docs/category/instructions"
+        "href": "/ls/docs/category/instructions"
       }
     ]
   },
@@ -117,8 +117,8 @@
     },
     "instructions/trenneinsatz-diy": {
       "id": "instructions/trenneinsatz-diy",
-      "title": "Trenneinsatz DIY",
-      "description": "Hier findest du einen Bauplan für den Goldeimer DIY Trenneinsatz",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
       "sidebar": "tutorialSidebar"
     },
     "instructions/uebersicht": {

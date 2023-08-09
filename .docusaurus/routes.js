@@ -3,201 +3,201 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '58e'),
+    path: '/ls/__docusaurus/debug',
+    component: ComponentCreator('/ls/__docusaurus/debug', 'c67'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '6a0'),
+    path: '/ls/__docusaurus/debug/config',
+    component: ComponentCreator('/ls/__docusaurus/debug/config', '203'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'd5c'),
+    path: '/ls/__docusaurus/debug/content',
+    component: ComponentCreator('/ls/__docusaurus/debug/content', 'ef6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'fe8'),
+    path: '/ls/__docusaurus/debug/globalData',
+    component: ComponentCreator('/ls/__docusaurus/debug/globalData', '26b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '56f'),
+    path: '/ls/__docusaurus/debug/metadata',
+    component: ComponentCreator('/ls/__docusaurus/debug/metadata', 'a9b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'e5b'),
+    path: '/ls/__docusaurus/debug/registry',
+    component: ComponentCreator('/ls/__docusaurus/debug/registry', '913'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'cdb'),
+    path: '/ls/__docusaurus/debug/routes',
+    component: ComponentCreator('/ls/__docusaurus/debug/routes', '52c'),
     exact: true
   },
   {
-    path: '/donation',
-    component: ComponentCreator('/donation', '519'),
+    path: '/ls/donation',
+    component: ComponentCreator('/ls/donation', '8f9'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '634'),
+    path: '/ls/markdown-page',
+    component: ComponentCreator('/ls/markdown-page', '4b0'),
     exact: true
   },
   {
-    path: '/search',
-    component: ComponentCreator('/search', '60d'),
+    path: '/ls/search',
+    component: ComponentCreator('/ls/search', '880'),
     exact: true
   },
   {
-    path: '/temp_index',
-    component: ComponentCreator('/temp_index', 'c8a'),
+    path: '/ls/temp_index',
+    component: ComponentCreator('/ls/temp_index', '8ae'),
     exact: true
   },
   {
-    path: '/docs/next',
-    component: ComponentCreator('/docs/next', 'dad'),
+    path: '/ls/docs/next',
+    component: ComponentCreator('/ls/docs/next', 'a0c'),
     routes: [
       {
-        path: '/docs/next/basics',
-        component: ComponentCreator('/docs/next/basics', 'ab1'),
+        path: '/ls/docs/next/basics',
+        component: ComponentCreator('/ls/docs/next/basics', '0c5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/basics/markdown-features',
-        component: ComponentCreator('/docs/next/basics/markdown-features', 'eac'),
+        path: '/ls/docs/next/basics/markdown-features',
+        component: ComponentCreator('/ls/docs/next/basics/markdown-features', '72a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/category/basics',
-        component: ComponentCreator('/docs/next/category/basics', '48a'),
+        path: '/ls/docs/next/category/basics',
+        component: ComponentCreator('/ls/docs/next/category/basics', 'b8c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/category/instructions',
-        component: ComponentCreator('/docs/next/category/instructions', 'a64'),
+        path: '/ls/docs/next/category/instructions',
+        component: ComponentCreator('/ls/docs/next/category/instructions', '4e7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/changelog',
-        component: ComponentCreator('/docs/next/changelog', '5bf'),
+        path: '/ls/docs/next/changelog',
+        component: ComponentCreator('/ls/docs/next/changelog', '3a9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/fermentation-composting',
-        component: ComponentCreator('/docs/next/fermentation-composting', '346'),
+        path: '/ls/docs/next/fermentation-composting',
+        component: ComponentCreator('/ls/docs/next/fermentation-composting', '32a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/festival-diy',
-        component: ComponentCreator('/docs/next/festival-diy', 'fb4'),
+        path: '/ls/docs/next/festival-diy',
+        component: ComponentCreator('/ls/docs/next/festival-diy', 'd92'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/goldeimer-diy',
-        component: ComponentCreator('/docs/next/goldeimer-diy', '22b'),
+        path: '/ls/docs/next/goldeimer-diy',
+        component: ComponentCreator('/ls/docs/next/goldeimer-diy', '0fb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/how-to-stoolbox',
-        component: ComponentCreator('/docs/next/how-to-stoolbox', '227'),
+        path: '/ls/docs/next/how-to-stoolbox',
+        component: ComponentCreator('/ls/docs/next/how-to-stoolbox', '0b9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/instructions/trenneinsatz-diy',
-        component: ComponentCreator('/docs/next/instructions/trenneinsatz-diy', 'b6a'),
+        path: '/ls/docs/next/instructions/trenneinsatz-diy',
+        component: ComponentCreator('/ls/docs/next/instructions/trenneinsatz-diy', 'afb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/next/why-open-source-hardware',
-        component: ComponentCreator('/docs/next/why-open-source-hardware', '5e2'),
+        path: '/ls/docs/next/why-open-source-hardware',
+        component: ComponentCreator('/ls/docs/next/why-open-source-hardware', 'f0f'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '496'),
+    path: '/ls/docs',
+    component: ComponentCreator('/ls/docs', '157'),
     routes: [
       {
-        path: '/docs/basics',
-        component: ComponentCreator('/docs/basics', '671'),
+        path: '/ls/docs/basics',
+        component: ComponentCreator('/ls/docs/basics', '608'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/basics',
-        component: ComponentCreator('/docs/category/basics', 'dd3'),
+        path: '/ls/docs/category/basics',
+        component: ComponentCreator('/ls/docs/category/basics', 'e18'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/instructions',
-        component: ComponentCreator('/docs/category/instructions', 'a4f'),
+        path: '/ls/docs/category/instructions',
+        component: ComponentCreator('/ls/docs/category/instructions', 'f7a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/changelog',
-        component: ComponentCreator('/docs/changelog', '293'),
+        path: '/ls/docs/changelog',
+        component: ComponentCreator('/ls/docs/changelog', '788'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/fermentation-composting',
-        component: ComponentCreator('/docs/fermentation-composting', 'a50'),
+        path: '/ls/docs/fermentation-composting',
+        component: ComponentCreator('/ls/docs/fermentation-composting', '46a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/goldeimer-diy',
-        component: ComponentCreator('/docs/goldeimer-diy', 'c60'),
+        path: '/ls/docs/goldeimer-diy',
+        component: ComponentCreator('/ls/docs/goldeimer-diy', '331'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/how-to-stoolbox',
-        component: ComponentCreator('/docs/how-to-stoolbox', 'f29'),
+        path: '/ls/docs/how-to-stoolbox',
+        component: ComponentCreator('/ls/docs/how-to-stoolbox', 'e55'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/instructions/trenneinsatz-diy',
-        component: ComponentCreator('/docs/instructions/trenneinsatz-diy', '24f'),
+        path: '/ls/docs/instructions/trenneinsatz-diy',
+        component: ComponentCreator('/ls/docs/instructions/trenneinsatz-diy', '384'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/instructions/uebersicht',
-        component: ComponentCreator('/docs/instructions/uebersicht', '158'),
+        path: '/ls/docs/instructions/uebersicht',
+        component: ComponentCreator('/ls/docs/instructions/uebersicht', 'a89'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/why-open-source-hardware',
-        component: ComponentCreator('/docs/why-open-source-hardware', 'f42'),
+        path: '/ls/docs/why-open-source-hardware',
+        component: ComponentCreator('/ls/docs/why-open-source-hardware', 'c9c'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'af0'),
+    path: '/ls/',
+    component: ComponentCreator('/ls/', '102'),
     exact: true
   },
   {
