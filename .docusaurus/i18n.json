@@ -13,21 +13,21 @@
     "de": {
       "label": "Deutsch",
       "direction": "ltr",
-      "htmlLang": "de",
+      "htmlLang": "de-DE",
       "calendar": "gregory",
       "path": "de"
     },
     "ls": {
       "label": "Deutsch (Leichte Sprache)",
       "direction": "ltr",
-      "htmlLang": "ls",
+      "htmlLang": "de-DE",
       "calendar": "gregory",
       "path": "ls"
     },
     "en": {
       "label": "English",
       "direction": "ltr",
-      "htmlLang": "en",
+      "htmlLang": "en-US",
       "calendar": "gregory",
       "path": "en"
     },

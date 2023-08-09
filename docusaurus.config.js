@@ -26,23 +26,42 @@ const config = {
   i18n: {
     defaultLocale: 'de',
     locales: ['de','ls', 'en', 'es', 'fr'],
+    path: 'i18n',
     localeConfigs: {
-	de: {
-	 	label: 'Deutsch',
-	},
-	ls: {
- 		label: 'Deutsch (Leichte Sprache)',
-    	},
-	en: {
-		label: 'English',
-	},
-	es: {
-	  	label: 'Español',
-	},
-	fr: {
-	  	label: 'Français',
-	},
-     }
+      de: {
+        label: 'Deutsch',
+        direction: 'ltr',
+        htmlLang: 'de-DE',
+        calendar: 'gregory',
+        path: 'de',
+      },
+      ls: {
+        label: 'Deutsch (Leichte Sprache)',
+        direction: 'ltr',
+        htmlLang: 'de-DE',
+        calendar: 'gregory',
+        path: 'ls',
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+        calendar: 'gregory',
+        path: 'en',
+      },
+      es: {
+        label: 'Español',
+        direction: 'ltr',
+        calendar: 'gregory',
+        path: 'es',
+      },
+      fr: {
+        label: 'Français',
+        direction: 'ltr',
+        calendar: 'gregory',
+        path: 'fr',
+      },
+    }
   },
 
   presets: [

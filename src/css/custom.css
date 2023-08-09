@@ -3163,7 +3163,6 @@ img,video {
 
 .group:hover .group-hover\:text-infinum,.hover\:text-infinum:hover,.markdown a,.text-infinum,section[class*=DocCategoryGeneratedIndexPage] article .card:hover {
   --tw-text-opacity: 1;
-  color: rgb(216 38 44/var(--tw-text-opacity))
 }
 
 .text-olive-30 {
@@ -3871,7 +3870,6 @@ body:has(.es-navbar-white) .navbar .DocSearch.DocSearch-Button {
 .navbar-sidebar__items .menu__link:hover {
   --tw-text-opacity: 1;
   background: none;
-  color: rgb(216 38 44/var(--tw-text-opacity))
 }
 
 .blog-list-page .main-wrapper .container>.row>main article footer>.col>ul li,.blog-post-page footer.row>.col>ul li,.blog-tags-post-list-page .main-wrapper .container>.row>main article footer>.col>ul li,.blog-tags-post-list-page .main-wrapper>.container>.row>.col,.navbar-sidebar__items .menu__list-item,.table-of-contents li {
@@ -4087,7 +4085,6 @@ section[class*=DocCategoryGeneratedIndexPage] article .card {
 }
 
 .breadcrumbs__item--active .breadcrumbs__link,.breadcrumbs__link:hover,.table-of-contents__link--active {
-  color: rgb(216 38 44/var(--tw-text-opacity));
   --tw-text-opacity: 1
 }
 
@@ -4155,7 +4152,6 @@ section[class*=DocCategoryGeneratedIndexPage] article .card {
 }
 
 .theme-doc-sidebar-container .menu__caret:hover,.theme-doc-sidebar-container .menu__link--active,.theme-doc-sidebar-container .menu__link:hover {
-  color: rgb(216 38 44/var(--tw-text-opacity));
   --tw-text-opacity: 1
 }
 

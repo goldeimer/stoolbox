@@ -22,29 +22,42 @@ export default {
       "es",
       "fr"
     ],
+    "path": "i18n",
     "localeConfigs": {
       "de": {
         "label": "Deutsch",
-        "direction": "ltr"
+        "direction": "ltr",
+        "htmlLang": "de-DE",
+        "calendar": "gregory",
+        "path": "de"
       },
       "ls": {
         "label": "Deutsch (Leichte Sprache)",
-        "direction": "ltr"
+        "direction": "ltr",
+        "htmlLang": "de-DE",
+        "calendar": "gregory",
+        "path": "ls"
       },
       "en": {
         "label": "English",
-        "direction": "ltr"
+        "direction": "ltr",
+        "htmlLang": "en-US",
+        "calendar": "gregory",
+        "path": "en"
       },
       "es": {
         "label": "Español",
-        "direction": "ltr"
+        "direction": "ltr",
+        "calendar": "gregory",
+        "path": "es"
       },
       "fr": {
         "label": "Français",
-        "direction": "ltr"
+        "direction": "ltr",
+        "calendar": "gregory",
+        "path": "fr"
       }
-    },
-    "path": "i18n"
+    }
   },
   "presets": [
     [
