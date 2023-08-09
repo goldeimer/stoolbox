@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.2.0/basics/why-open-source-hardware.mdx",
   "sourceDirName": "basics",
   "slug": "/why-open-source-hardware",
-  "permalink": "/it/docs/why-open-source-hardware",
+  "permalink": "/docs/why-open-source-hardware",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
   "tags": [],
@@ -35,10 +35,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Fermentation & Composting",
-    "permalink": "/it/docs/fermentation-composting"
+    "permalink": "/docs/fermentation-composting"
   },
   "next": {
     "title": "How to sToolbox",
-    "permalink": "/it/docs/how-to-stoolbox"
+    "permalink": "/docs/how-to-stoolbox"
   }
 }

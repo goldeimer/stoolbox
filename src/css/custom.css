@@ -1909,7 +1909,7 @@ hr {
 
 .navbar__logo {
   flex: 0 0 auto;
-  height: 2rem;
+  height: auto;
   margin-right: .5rem
 }
 
@@ -3819,11 +3819,6 @@ body:has(.es-navbar-white) .navbar .DocSearch.DocSearch-Button {
 
 .navbar__brand {
   padding-top: .25rem
-}
-
-.navbar__logo {
-  max-height: 1.5rem;
-  max-width: 14.5rem
 }
 
 .navbar__items--right {

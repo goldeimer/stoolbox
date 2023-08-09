@@ -1,68 +1,68 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/ls/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": false,
-          "path": "/ls/docs/next",
+          "path": "/docs/next",
           "mainDocId": "basics/basics",
           "docs": [
             {
               "id": "basics/basics",
-              "path": "/ls/docs/next/basics",
+              "path": "/docs/next/basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/changelog",
-              "path": "/ls/docs/next/changelog",
+              "path": "/docs/next/changelog",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/fermentation-composting",
-              "path": "/ls/docs/next/fermentation-composting",
+              "path": "/docs/next/fermentation-composting",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/how-to-stoolbox",
-              "path": "/ls/docs/next/how-to-stoolbox",
+              "path": "/docs/next/how-to-stoolbox",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/markdown-features",
-              "path": "/ls/docs/next/basics/markdown-features",
+              "path": "/docs/next/basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/why-open-source-hardware",
-              "path": "/ls/docs/next/why-open-source-hardware",
+              "path": "/docs/next/why-open-source-hardware",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "instructions/festival-diy",
-              "path": "/ls/docs/next/festival-diy",
+              "path": "/docs/next/festival-diy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "instructions/goldeimer-diy",
-              "path": "/ls/docs/next/goldeimer-diy",
+              "path": "/docs/next/goldeimer-diy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "instructions/trenneinsatz-diy",
-              "path": "/ls/docs/next/instructions/trenneinsatz-diy",
+              "path": "/docs/next/instructions/trenneinsatz-diy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/basics",
-              "path": "/ls/docs/next/category/basics",
+              "path": "/docs/next/category/basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/instructions",
-              "path": "/ls/docs/next/category/instructions",
+              "path": "/docs/next/category/instructions",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +70,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/ls/docs/next/category/basics",
+                "path": "/docs/next/category/basics",
                 "label": "Basics"
               }
             }
@@ -80,57 +80,57 @@
           "name": "1.2.0",
           "label": "1.2.0",
           "isLast": true,
-          "path": "/ls/docs",
+          "path": "/docs",
           "mainDocId": "basics/basics",
           "docs": [
             {
               "id": "basics/basics",
-              "path": "/ls/docs/basics",
+              "path": "/docs/basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/changelog",
-              "path": "/ls/docs/changelog",
+              "path": "/docs/changelog",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/fermentation-composting",
-              "path": "/ls/docs/fermentation-composting",
+              "path": "/docs/fermentation-composting",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/how-to-stoolbox",
-              "path": "/ls/docs/how-to-stoolbox",
+              "path": "/docs/how-to-stoolbox",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "basics/why-open-source-hardware",
-              "path": "/ls/docs/why-open-source-hardware",
+              "path": "/docs/why-open-source-hardware",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "instructions/goldeimer-diy",
-              "path": "/ls/docs/goldeimer-diy",
+              "path": "/docs/goldeimer-diy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "instructions/trenneinsatz-diy",
-              "path": "/ls/docs/instructions/trenneinsatz-diy",
+              "path": "/docs/instructions/trenneinsatz-diy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "instructions/uebersicht",
-              "path": "/ls/docs/instructions/uebersicht",
+              "path": "/docs/instructions/uebersicht",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/basics",
-              "path": "/ls/docs/category/basics",
+              "path": "/docs/category/basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/instructions",
-              "path": "/ls/docs/category/instructions",
+              "path": "/docs/category/instructions",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -138,7 +138,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/ls/docs/category/basics",
+                "path": "/docs/category/basics",
                 "label": "Basics"
               }
             }

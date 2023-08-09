@@ -6,7 +6,7 @@
   "source": "@site/docs/basics/basics.md",
   "sourceDirName": "basics",
   "slug": "/basics",
-  "permalink": "/it/docs/next/basics",
+  "permalink": "/docs/next/basics",
   "draft": false,
   "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/basics.md",
   "tags": [],
@@ -34,10 +34,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Basics",
-    "permalink": "/it/docs/next/category/basics"
+    "permalink": "/docs/next/category/basics"
   },
   "next": {
     "title": "Fermentation & Composting",
-    "permalink": "/it/docs/next/fermentation-composting"
+    "permalink": "/docs/next/fermentation-composting"
   }
 }

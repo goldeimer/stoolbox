@@ -6,7 +6,7 @@
   "source": "@site/docs/basics/markdown-features.mdx",
   "sourceDirName": "basics",
   "slug": "/basics/markdown-features",
-  "permalink": "/it/docs/next/basics/markdown-features",
+  "permalink": "/docs/next/basics/markdown-features",
   "draft": false,
   "editUrl": "https://github.com/goldeimer/stoolbox/docs/basics/markdown-features.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to sToolbox",
-    "permalink": "/it/docs/next/how-to-stoolbox"
+    "permalink": "/docs/next/how-to-stoolbox"
   },
   "next": {
     "title": "Changelog",
-    "permalink": "/it/docs/next/changelog"
+    "permalink": "/docs/next/changelog"
   }
 }

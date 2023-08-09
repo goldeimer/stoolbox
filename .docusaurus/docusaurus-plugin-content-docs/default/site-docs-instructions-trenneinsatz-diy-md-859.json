@@ -6,7 +6,7 @@
   "source": "@site/docs/instructions/trenneinsatz-diy.md",
   "sourceDirName": "instructions",
   "slug": "/instructions/trenneinsatz-diy",
-  "permalink": "/it/docs/next/instructions/trenneinsatz-diy",
+  "permalink": "/docs/next/instructions/trenneinsatz-diy",
   "draft": false,
   "editUrl": "https://github.com/goldeimer/stoolbox/docs/instructions/trenneinsatz-diy.md",
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Festival DIY",
-    "permalink": "/it/docs/next/festival-diy"
+    "permalink": "/docs/next/festival-diy"
   }
 }

@@ -7,7 +7,7 @@ export default {
   "title": "sToolbox",
   "tagline": "powered by Goldeimer",
   "url": "http://www.stoolbox.de",
-  "baseUrl": "/ls/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -91,7 +91,7 @@ export default {
       "isCloseable": false
     },
     "navbar": {
-      "title": "PooPeeFY",
+      "title": "sToolbox",
       "logo": {
         "alt": "sToolbox Logo",
         "src": "/img/goldeimer-logo.png",
@@ -198,7 +198,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Goldeimer gGmbH, Netzwerk für nachhaltige Sanitärsysteme e.V."
+      "copyright": "sToolbox © 2023 powered by Goldeimer gGmbH"
     },
     "prism": {
       "theme": {

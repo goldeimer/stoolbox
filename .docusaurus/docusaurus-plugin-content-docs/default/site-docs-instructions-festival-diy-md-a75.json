@@ -6,7 +6,7 @@
   "source": "@site/docs/instructions/festival-diy.md",
   "sourceDirName": "instructions",
   "slug": "/festival-diy",
-  "permalink": "/ls/docs/next/festival-diy",
+  "permalink": "/docs/next/festival-diy",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
   "tags": [],
@@ -35,6 +35,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Goldeimer DIY",
-    "permalink": "/ls/docs/next/goldeimer-diy"
+    "permalink": "/docs/next/goldeimer-diy"
+  },
+  "next": {
+    "title": "DIY-Trenneinsatz",
+    "permalink": "/docs/next/instructions/trenneinsatz-diy"
   }
 }
