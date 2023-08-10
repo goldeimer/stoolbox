@@ -30,7 +30,6 @@ Es gibt viele Gründe, warum Trockentoiletten mancherorts sinnvoller sind als ih
 Wie ein Klo funktioniert, weißt du. Das ist beim Trockenklo nicht anders. Du machst dein Geschäft, nimmst Klopapier und wischt dir nach Belieben deinen Hintern ab, wirfst das Klopapier in die Toilette und streust mit Einstreu ab. Es eignen sich verschiedene organische und naturbelassene Stoffe als Einstreu. Manche besser – manche schlechter. Die Einstreu dient vor allem dazu, die Gerüche zu mindern, die Hinterlassenschaften auch optisch abzudecken und ist quasi das Äquivalent zum Spülkasten des WCs - nur eben (wie der Name Trockentoilette ja schon sagt) ganz ohne Wasser.
 
 Apropos Wasser. Sauberes Trinkwasser fließt durch unsere Klospülungen. Mit durchschnittlich 6 - 11 täglichen Klogängen macht das ca. 30% deines täglichen Trinkwasserbedarfs aus. Das Abwasser wird in Kläranlagen aufwendig wieder getrennt und aufbereitet - Trockentoiletten sind da deutlich ressourcenschonender.
-
 Es gibt grundsätzlich zwei Arten von Trockenklos – Trockentrenntoiletten oder einfache Eimerklos ohne Trennung.  Bei Trockentrenntoiletten wird im vorderen Bereich separat Urin gesammelt und im hinteren Bereich die Kacke inklusive Einstreu und Klopapier. Bei den "Eintopfvarianten" geht alles zusammen in einen Behälter.
 
 Wenn der Behälter voll ist, werden die Hinterlassenschaften kompostiert und es entsteht nährstoffreicher Humus, der wieder dem Boden und den Pflanzen zurückgegeben wird. Die wichtigen Nährstoffe bleiben also im Kreislauf erhalten.
