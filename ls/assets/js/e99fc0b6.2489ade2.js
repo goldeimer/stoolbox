@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstoolbox=self.webpackChunkstoolbox||[]).push([[929],{9837:s=>{s.exports=JSON.parse('{"title":"Basics","description":"Here you will find the basics about composting toilets.","slug":"/category/basics","permalink":"/ls/docs/next/category/basics","navigation":{"next":{"title":"Basics","permalink":"/ls/docs/next/basics"}}}')}}]);
