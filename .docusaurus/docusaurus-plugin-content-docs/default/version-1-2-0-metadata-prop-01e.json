@@ -19,35 +19,35 @@
           {
             "type": "link",
             "label": "Basics",
-            "href": "/ls/docs/basics",
+            "href": "/docs/basics",
             "docId": "basics/basics"
           },
           {
             "type": "link",
             "label": "Fermentation & Composting",
-            "href": "/ls/docs/fermentation-composting",
+            "href": "/docs/fermentation-composting",
             "docId": "basics/fermentation-composting"
           },
           {
             "type": "link",
             "label": "Why Open-Source-Hardware",
-            "href": "/ls/docs/why-open-source-hardware",
+            "href": "/docs/why-open-source-hardware",
             "docId": "basics/why-open-source-hardware"
           },
           {
             "type": "link",
             "label": "How to sToolbox",
-            "href": "/ls/docs/how-to-stoolbox",
+            "href": "/docs/how-to-stoolbox",
             "docId": "basics/how-to-stoolbox"
           },
           {
             "type": "link",
             "label": "Changelog",
-            "href": "/ls/docs/changelog",
+            "href": "/docs/changelog",
             "docId": "basics/changelog"
           }
         ],
-        "href": "/ls/docs/category/basics"
+        "href": "/docs/category/basics"
       },
       {
         "type": "category",
@@ -57,24 +57,24 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/ls/docs/instructions/trenneinsatz-diy",
-            "docId": "instructions/trenneinsatz-diy"
-          },
-          {
-            "type": "link",
-            "label": "uebersicht",
-            "href": "/ls/docs/instructions/uebersicht",
+            "label": "Trockentoiletten im Vergleich",
+            "href": "/docs/instructions/uebersicht",
             "docId": "instructions/uebersicht"
           },
           {
             "type": "link",
             "label": "Goldeimer DIY",
-            "href": "/ls/docs/goldeimer-diy",
+            "href": "/docs/goldeimer-diy",
             "docId": "instructions/goldeimer-diy"
+          },
+          {
+            "type": "link",
+            "label": "Trenneinsatz DIY",
+            "href": "/docs/instructions/trenneinsatz-diy",
+            "docId": "instructions/trenneinsatz-diy"
           }
         ],
-        "href": "/ls/docs/category/instructions"
+        "href": "/docs/category/instructions"
       }
     ]
   },
@@ -117,13 +117,13 @@
     },
     "instructions/trenneinsatz-diy": {
       "id": "instructions/trenneinsatz-diy",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+      "title": "Trenneinsatz DIY",
+      "description": "Hier findest du einen Bauplan für den Goldeimer DIY Trenneinsatz",
       "sidebar": "tutorialSidebar"
     },
     "instructions/uebersicht": {
       "id": "instructions/uebersicht",
-      "title": "uebersicht",
+      "title": "Trockentoiletten im Vergleich",
       "description": "Nutzungen",
       "sidebar": "tutorialSidebar"
     }

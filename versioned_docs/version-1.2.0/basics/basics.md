@@ -5,7 +5,7 @@ hide_title: false
 hide_table_of_contents: false
 sidebar_label: Basics
 sidebar_position: 1
-custom_edit_url: https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md
+custom_edit_url: https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/basics/basics.md
 description: Alles für den Einstieg
 keywords:
   - docs

@@ -8,7 +8,7 @@
   "slug": "/goldeimer-diy",
   "permalink": "/docs/goldeimer-diy",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+  "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/instructions/goldeimer-diy.md",
   "tags": [],
   "version": "1.2.0",
   "sidebarPosition": 2,
@@ -19,7 +19,7 @@
     "hide_table_of_contents": false,
     "sidebar_label": "Goldeimer DIY",
     "sidebar_position": 2,
-    "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+    "custom_edit_url": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/instructions/goldeimer-diy.md",
     "description": "Bauanleitung für eine DIY Trockentoilette",
     "keywords": [
       "docs",
@@ -34,7 +34,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "uebersicht",
+    "title": "Trockentoiletten im Vergleich",
     "permalink": "/docs/instructions/uebersicht"
   },
   "next": {

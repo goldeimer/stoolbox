@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.2.0/basics/changelog.mdx",
   "sourceDirName": "basics",
   "slug": "/changelog",
-  "permalink": "/ls/docs/changelog",
+  "permalink": "/docs/changelog",
   "draft": false,
   "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/changelog.md",
   "tags": [],
@@ -35,10 +35,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to sToolbox",
-    "permalink": "/ls/docs/how-to-stoolbox"
+    "permalink": "/docs/how-to-stoolbox"
   },
   "next": {
     "title": "Instructions",
-    "permalink": "/ls/docs/category/instructions"
+    "permalink": "/docs/category/instructions"
   }
 }

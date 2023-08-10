@@ -9,26 +9,26 @@
           "badge": true,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/ls/docs/next",
-          "tagsPath": "/ls/docs/next/tags",
+          "path": "/docs/next",
+          "tagsPath": "/docs/next/tags",
           "editUrl": "https://github.com/goldeimer/stoolbox/docs",
-          "editUrlLocalized": "https://github.com/goldeimer/stoolbox/i18n/ls/docusaurus-plugin-content-docs/current",
+          "editUrlLocalized": "https://github.com/goldeimer/stoolbox/i18n/de/docusaurus-plugin-content-docs/current",
           "isLast": false,
           "sidebarFilePath": "/Users/frederikgottemeyer/Sites/sToolbox/sidebars.js",
           "contentPath": "/Users/frederikgottemeyer/Sites/sToolbox/docs",
-          "contentPathLocalized": "/Users/frederikgottemeyer/Sites/sToolbox/i18n/ls/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/Users/frederikgottemeyer/Sites/sToolbox/i18n/de/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "basics/basics",
               "id": "basics/basics",
               "title": "Basics",
               "description": "Alles für den Einstieg",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/current/basics/basics.md",
+              "source": "@site/docs/basics/basics.md",
               "sourceDirName": "basics",
               "slug": "/basics",
-              "permalink": "/ls/docs/next/basics",
+              "permalink": "/docs/next/basics",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+              "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/basics.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -39,7 +39,7 @@
                 "hide_table_of_contents": false,
                 "sidebar_label": "Basics",
                 "sidebar_position": 1,
-                "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+                "custom_edit_url": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/basics.md",
                 "description": "Alles für den Einstieg",
                 "keywords": [
                   "docs",
@@ -48,18 +48,17 @@
                 "image": "https://i.imgur.com/mErPwqL.png",
                 "slug": "/basics",
                 "last_update": {
-                  "date": "12/16/22",
-                  "author": "Frederik Gottemeyer"
+                  "date": "12/16/22"
                 }
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Basics",
-                "permalink": "/ls/docs/next/category/basics"
+                "permalink": "/docs/next/category/basics"
               },
               "next": {
                 "title": "Fermentation & Composting",
-                "permalink": "/ls/docs/next/fermentation-composting"
+                "permalink": "/docs/next/fermentation-composting"
               }
             },
             {
@@ -70,7 +69,7 @@
               "source": "@site/docs/basics/changelog.mdx",
               "sourceDirName": "basics",
               "slug": "/changelog",
-              "permalink": "/ls/docs/next/changelog",
+              "permalink": "/docs/next/changelog",
               "draft": false,
               "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/changelog.md",
               "tags": [],
@@ -99,11 +98,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/ls/docs/next/basics/markdown-features"
+                "permalink": "/docs/next/basics/markdown-features"
               },
               "next": {
                 "title": "Instructions",
-                "permalink": "/ls/docs/next/category/instructions"
+                "permalink": "/docs/next/category/instructions"
               }
             },
             {
@@ -111,10 +110,10 @@
               "id": "basics/fermentation-composting",
               "title": "Fermentation & Composting",
               "description": "Wie kompostiert und fermentierst du deine Hinterlassenschaften",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/current/basics/fermentation-composting.mdx",
+              "source": "@site/docs/basics/fermentation-composting.mdx",
               "sourceDirName": "basics",
               "slug": "/fermentation-composting",
-              "permalink": "/ls/docs/next/fermentation-composting",
+              "permalink": "/docs/next/fermentation-composting",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
               "tags": [],
@@ -143,11 +142,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Basics",
-                "permalink": "/ls/docs/next/basics"
+                "permalink": "/docs/next/basics"
               },
               "next": {
                 "title": "Why Open-Source-Hardware",
-                "permalink": "/ls/docs/next/why-open-source-hardware"
+                "permalink": "/docs/next/why-open-source-hardware"
               }
             },
             {
@@ -155,10 +154,10 @@
               "id": "basics/how-to-stoolbox",
               "title": "How to sToolbox",
               "description": "Wie man die Dokumentation für die sToolbox oder Docusaurus schreibt",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/current/basics/how-to-stoolbox.mdx",
+              "source": "@site/docs/basics/how-to-stoolbox.mdx",
               "sourceDirName": "basics",
               "slug": "/how-to-stoolbox",
-              "permalink": "/ls/docs/next/how-to-stoolbox",
+              "permalink": "/docs/next/how-to-stoolbox",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
               "tags": [],
@@ -187,11 +186,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Why Open-Source-Hardware",
-                "permalink": "/ls/docs/next/why-open-source-hardware"
+                "permalink": "/docs/next/why-open-source-hardware"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/ls/docs/next/basics/markdown-features"
+                "permalink": "/docs/next/basics/markdown-features"
               }
             },
             {
@@ -199,10 +198,10 @@
               "id": "basics/markdown-features",
               "title": "Markdown Features",
               "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/current/basics/markdown-features.mdx",
+              "source": "@site/docs/basics/markdown-features.mdx",
               "sourceDirName": "basics",
               "slug": "/basics/markdown-features",
-              "permalink": "/ls/docs/next/basics/markdown-features",
+              "permalink": "/docs/next/basics/markdown-features",
               "draft": false,
               "editUrl": "https://github.com/goldeimer/stoolbox/docs/basics/markdown-features.mdx",
               "tags": [],
@@ -214,11 +213,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "How to sToolbox",
-                "permalink": "/ls/docs/next/how-to-stoolbox"
+                "permalink": "/docs/next/how-to-stoolbox"
               },
               "next": {
                 "title": "Changelog",
-                "permalink": "/ls/docs/next/changelog"
+                "permalink": "/docs/next/changelog"
               }
             },
             {
@@ -226,10 +225,10 @@
               "id": "basics/why-open-source-hardware",
               "title": "Why Open-Source-Hardware",
               "description": "Why Open-Source-Hardware?",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/current/basics/why-open-source-hardware.mdx",
+              "source": "@site/docs/basics/why-open-source-hardware.mdx",
               "sourceDirName": "basics",
               "slug": "/why-open-source-hardware",
-              "permalink": "/ls/docs/next/why-open-source-hardware",
+              "permalink": "/docs/next/why-open-source-hardware",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
               "tags": [],
@@ -258,11 +257,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Fermentation & Composting",
-                "permalink": "/ls/docs/next/fermentation-composting"
+                "permalink": "/docs/next/fermentation-composting"
               },
               "next": {
                 "title": "How to sToolbox",
-                "permalink": "/ls/docs/next/how-to-stoolbox"
+                "permalink": "/docs/next/how-to-stoolbox"
               }
             },
             {
@@ -273,7 +272,7 @@
               "source": "@site/docs/instructions/festival-diy.md",
               "sourceDirName": "instructions",
               "slug": "/festival-diy",
-              "permalink": "/ls/docs/next/festival-diy",
+              "permalink": "/docs/next/festival-diy",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
               "tags": [],
@@ -302,7 +301,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Goldeimer DIY",
-                "permalink": "/ls/docs/next/goldeimer-diy"
+                "permalink": "/docs/next/goldeimer-diy"
+              },
+              "next": {
+                "title": "DIY-Trenneinsatz",
+                "permalink": "/docs/next/instructions/trenneinsatz-diy"
               }
             },
             {
@@ -310,10 +313,10 @@
               "id": "instructions/goldeimer-diy",
               "title": "Goldeimers DIY Trockentoilette",
               "description": "Bauanleitung für eine DIY Trockentoilette",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/current/instructions/goldeimer-diy.md",
+              "source": "@site/docs/instructions/goldeimer-diy.md",
               "sourceDirName": "instructions",
               "slug": "/goldeimer-diy",
-              "permalink": "/ls/docs/next/goldeimer-diy",
+              "permalink": "/docs/next/goldeimer-diy",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
               "tags": [],
@@ -341,39 +344,35 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/ls/docs/next/instructions/trenneinsatz-diy"
+                "title": "Instructions",
+                "permalink": "/docs/next/category/instructions"
               },
               "next": {
                 "title": "Festival DIY",
-                "permalink": "/ls/docs/next/festival-diy"
+                "permalink": "/docs/next/festival-diy"
               }
             },
             {
               "unversionedId": "instructions/trenneinsatz-diy",
               "id": "instructions/trenneinsatz-diy",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/current/instructions/trenneinsatz-diy.md",
+              "title": "DIY-Trenneinsatz",
+              "description": "Wie baue ich einen Trenneinsatz für Urin und Kot aus einen Eimer?",
+              "source": "@site/docs/instructions/trenneinsatz-diy.md",
               "sourceDirName": "instructions",
               "slug": "/instructions/trenneinsatz-diy",
-              "permalink": "/ls/docs/next/instructions/trenneinsatz-diy",
+              "permalink": "/docs/next/instructions/trenneinsatz-diy",
               "draft": false,
               "editUrl": "https://github.com/goldeimer/stoolbox/docs/instructions/trenneinsatz-diy.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Instructions",
-                "permalink": "/ls/docs/next/category/instructions"
-              },
-              "next": {
-                "title": "Goldeimer DIY",
-                "permalink": "/ls/docs/next/goldeimer-diy"
+                "title": "Festival DIY",
+                "permalink": "/docs/next/festival-diy"
               }
             }
           ],
@@ -421,7 +420,7 @@
                   "type": "generated-index",
                   "description": "Here you will find the basics about composting toilets.",
                   "slug": "/category/basics",
-                  "permalink": "/ls/docs/next/category/basics"
+                  "permalink": "/docs/next/category/basics"
                 }
               },
               {
@@ -432,10 +431,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "instructions/trenneinsatz-diy"
-                  },
-                  {
-                    "type": "doc",
                     "id": "instructions/goldeimer-diy",
                     "label": "Goldeimer DIY"
                   },
@@ -443,13 +438,17 @@
                     "type": "doc",
                     "id": "instructions/festival-diy",
                     "label": "Festival DIY"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "instructions/trenneinsatz-diy"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "Here you can find different instructions for different types of dry toilets",
                   "slug": "/category/instructions",
-                  "permalink": "/ls/docs/next/category/instructions"
+                  "permalink": "/docs/next/category/instructions"
                 }
               }
             ]
@@ -462,27 +461,27 @@
           "badge": true,
           "noIndex": false,
           "className": "docs-version-1.2.0",
-          "path": "/ls/docs",
-          "tagsPath": "/ls/docs/tags",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
           "editUrl": "https://github.com/goldeimer/stoolbox/versioned_docs/version-1.2.0",
-          "editUrlLocalized": "https://github.com/goldeimer/stoolbox/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0",
+          "editUrlLocalized": "https://github.com/goldeimer/stoolbox/i18n/de/docusaurus-plugin-content-docs/version-1.2.0",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/frederikgottemeyer/Sites/sToolbox/versioned_sidebars/version-1.2.0-sidebars.json",
           "contentPath": "/Users/frederikgottemeyer/Sites/sToolbox/versioned_docs/version-1.2.0",
-          "contentPathLocalized": "/Users/frederikgottemeyer/Sites/sToolbox/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0",
+          "contentPathLocalized": "/Users/frederikgottemeyer/Sites/sToolbox/i18n/de/docusaurus-plugin-content-docs/version-1.2.0",
           "docs": [
             {
               "unversionedId": "basics/basics",
               "id": "version-1.2.0/basics/basics",
               "title": "Basics",
               "description": "Alles für den Einstieg",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0/basics/basics.md",
+              "source": "@site/versioned_docs/version-1.2.0/basics/basics.md",
               "sourceDirName": "basics",
               "slug": "/basics",
-              "permalink": "/ls/docs/basics",
+              "permalink": "/docs/basics",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+              "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/basics/basics.md",
               "tags": [],
               "version": "1.2.0",
               "sidebarPosition": 1,
@@ -493,7 +492,7 @@
                 "hide_table_of_contents": false,
                 "sidebar_label": "Basics",
                 "sidebar_position": 1,
-                "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+                "custom_edit_url": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/basics/basics.md",
                 "description": "Alles für den Einstieg",
                 "keywords": [
                   "docs",
@@ -509,11 +508,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Basics",
-                "permalink": "/ls/docs/category/basics"
+                "permalink": "/docs/category/basics"
               },
               "next": {
                 "title": "Fermentation & Composting",
-                "permalink": "/ls/docs/fermentation-composting"
+                "permalink": "/docs/fermentation-composting"
               }
             },
             {
@@ -524,7 +523,7 @@
               "source": "@site/versioned_docs/version-1.2.0/basics/changelog.mdx",
               "sourceDirName": "basics",
               "slug": "/changelog",
-              "permalink": "/ls/docs/changelog",
+              "permalink": "/docs/changelog",
               "draft": false,
               "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/docs/basics/changelog.md",
               "tags": [],
@@ -553,11 +552,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "How to sToolbox",
-                "permalink": "/ls/docs/how-to-stoolbox"
+                "permalink": "/docs/how-to-stoolbox"
               },
               "next": {
                 "title": "Instructions",
-                "permalink": "/ls/docs/category/instructions"
+                "permalink": "/docs/category/instructions"
               }
             },
             {
@@ -565,12 +564,12 @@
               "id": "version-1.2.0/basics/fermentation-composting",
               "title": "Fermentation & Composting",
               "description": "Wie kompostiert und fermentierst du deine Hinterlassenschaften",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0/basics/fermentation-composting.mdx",
+              "source": "@site/versioned_docs/version-1.2.0/basics/fermentation-composting.mdx",
               "sourceDirName": "basics",
               "slug": "/fermentation-composting",
-              "permalink": "/ls/docs/fermentation-composting",
+              "permalink": "/docs/fermentation-composting",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+              "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/basics/fermentation-composting.mdx",
               "tags": [],
               "version": "1.2.0",
               "sidebarPosition": 2,
@@ -581,7 +580,7 @@
                 "hide_table_of_contents": false,
                 "sidebar_label": "Fermentation & Composting",
                 "sidebar_position": 2,
-                "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+                "custom_edit_url": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/basics/fermentation-composting.mdx",
                 "description": "Wie kompostiert und fermentierst du deine Hinterlassenschaften",
                 "keywords": [
                   "docs",
@@ -597,11 +596,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Basics",
-                "permalink": "/ls/docs/basics"
+                "permalink": "/docs/basics"
               },
               "next": {
                 "title": "Why Open-Source-Hardware",
-                "permalink": "/ls/docs/why-open-source-hardware"
+                "permalink": "/docs/why-open-source-hardware"
               }
             },
             {
@@ -609,10 +608,10 @@
               "id": "version-1.2.0/basics/how-to-stoolbox",
               "title": "How to sToolbox",
               "description": "Wie man die Dokumentation für die sToolbox oder Docusaurus schreibt",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0/basics/how-to-stoolbox.mdx",
+              "source": "@site/versioned_docs/version-1.2.0/basics/how-to-stoolbox.mdx",
               "sourceDirName": "basics",
               "slug": "/how-to-stoolbox",
-              "permalink": "/ls/docs/how-to-stoolbox",
+              "permalink": "/docs/how-to-stoolbox",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
               "tags": [],
@@ -641,11 +640,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Why Open-Source-Hardware",
-                "permalink": "/ls/docs/why-open-source-hardware"
+                "permalink": "/docs/why-open-source-hardware"
               },
               "next": {
                 "title": "Changelog",
-                "permalink": "/ls/docs/changelog"
+                "permalink": "/docs/changelog"
               }
             },
             {
@@ -653,10 +652,10 @@
               "id": "version-1.2.0/basics/why-open-source-hardware",
               "title": "Why Open-Source-Hardware",
               "description": "Why Open-Source-Hardware?",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0/basics/why-open-source-hardware.mdx",
+              "source": "@site/versioned_docs/version-1.2.0/basics/why-open-source-hardware.mdx",
               "sourceDirName": "basics",
               "slug": "/why-open-source-hardware",
-              "permalink": "/ls/docs/why-open-source-hardware",
+              "permalink": "/docs/why-open-source-hardware",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
               "tags": [],
@@ -685,11 +684,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Fermentation & Composting",
-                "permalink": "/ls/docs/fermentation-composting"
+                "permalink": "/docs/fermentation-composting"
               },
               "next": {
                 "title": "How to sToolbox",
-                "permalink": "/ls/docs/how-to-stoolbox"
+                "permalink": "/docs/how-to-stoolbox"
               }
             },
             {
@@ -697,12 +696,12 @@
               "id": "version-1.2.0/instructions/goldeimer-diy",
               "title": "Goldeimers DIY Trockentoilette",
               "description": "Bauanleitung für eine DIY Trockentoilette",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0/instructions/goldeimer-diy.md",
+              "source": "@site/versioned_docs/version-1.2.0/instructions/goldeimer-diy.md",
               "sourceDirName": "instructions",
               "slug": "/goldeimer-diy",
-              "permalink": "/ls/docs/goldeimer-diy",
+              "permalink": "/docs/goldeimer-diy",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+              "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/instructions/goldeimer-diy.md",
               "tags": [],
               "version": "1.2.0",
               "sidebarPosition": 2,
@@ -713,7 +712,7 @@
                 "hide_table_of_contents": false,
                 "sidebar_label": "Goldeimer DIY",
                 "sidebar_position": 2,
-                "custom_edit_url": "https://github.com/facebook/docusaurus/edit/main/docs/api-doc-markdown.md",
+                "custom_edit_url": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/instructions/goldeimer-diy.md",
                 "description": "Bauanleitung für eine DIY Trockentoilette",
                 "keywords": [
                   "docs",
@@ -728,62 +727,63 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "uebersicht",
-                "permalink": "/ls/docs/instructions/uebersicht"
+                "title": "Trockentoiletten im Vergleich",
+                "permalink": "/docs/instructions/uebersicht"
+              },
+              "next": {
+                "title": "Trenneinsatz DIY",
+                "permalink": "/docs/instructions/trenneinsatz-diy"
               }
             },
             {
               "unversionedId": "instructions/trenneinsatz-diy",
               "id": "version-1.2.0/instructions/trenneinsatz-diy",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/i18n/ls/docusaurus-plugin-content-docs/version-1.2.0/instructions/trenneinsatz-diy.md",
+              "title": "Trenneinsatz DIY",
+              "description": "Hier findest du einen Bauplan für den Goldeimer DIY Trenneinsatz",
+              "source": "@site/versioned_docs/version-1.2.0/instructions/trenneinsatz-diy.md",
               "sourceDirName": "instructions",
               "slug": "/instructions/trenneinsatz-diy",
-              "permalink": "/ls/docs/instructions/trenneinsatz-diy",
+              "permalink": "/docs/instructions/trenneinsatz-diy",
               "draft": false,
               "editUrl": "https://github.com/goldeimer/stoolbox/versioned_docs/version-1.2.0/instructions/trenneinsatz-diy.md",
               "tags": [],
               "version": "1.2.0",
-              "sidebarPosition": 1,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Instructions",
-                "permalink": "/ls/docs/category/instructions"
-              },
-              "next": {
-                "title": "uebersicht",
-                "permalink": "/ls/docs/instructions/uebersicht"
+                "title": "Goldeimer DIY",
+                "permalink": "/docs/goldeimer-diy"
               }
             },
             {
               "unversionedId": "instructions/uebersicht",
               "id": "version-1.2.0/instructions/uebersicht",
-              "title": "uebersicht",
+              "title": "Trockentoiletten im Vergleich",
               "description": "Nutzungen",
               "source": "@site/versioned_docs/version-1.2.0/instructions/uebersicht.mdx",
               "sourceDirName": "instructions",
               "slug": "/instructions/uebersicht",
-              "permalink": "/ls/docs/instructions/uebersicht",
+              "permalink": "/docs/instructions/uebersicht",
               "draft": false,
-              "editUrl": "https://github.com/goldeimer/stoolbox/versioned_docs/version-1.2.0/instructions/uebersicht.mdx",
+              "editUrl": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/instructions/uebersicht.mdx",
               "tags": [],
               "version": "1.2.0",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "custom_edit_url": "https://github.com/goldeimer/stoolbox/blob/main/versioned_docs/version-1.2.0/instructions/uebersicht.mdx"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/ls/docs/instructions/trenneinsatz-diy"
+                "title": "Instructions",
+                "permalink": "/docs/category/instructions"
               },
               "next": {
                 "title": "Goldeimer DIY",
-                "permalink": "/ls/docs/goldeimer-diy"
+                "permalink": "/docs/goldeimer-diy"
               }
             }
           ],
@@ -827,7 +827,7 @@
                   "type": "generated-index",
                   "description": "Here you will find the basics about composting toilets.",
                   "slug": "/category/basics",
-                  "permalink": "/ls/docs/category/basics"
+                  "permalink": "/docs/category/basics"
                 }
               },
               {
@@ -838,23 +838,23 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "version-1.2.0/instructions/trenneinsatz-diy"
-                  },
-                  {
-                    "type": "doc",
                     "id": "version-1.2.0/instructions/uebersicht"
                   },
                   {
                     "type": "doc",
                     "id": "version-1.2.0/instructions/goldeimer-diy",
                     "label": "Goldeimer DIY"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.2.0/instructions/trenneinsatz-diy"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "Here you can find different instructions for different types of dry toilets",
                   "slug": "/category/instructions",
-                  "permalink": "/ls/docs/category/instructions"
+                  "permalink": "/docs/category/instructions"
                 }
               }
             ]
@@ -869,7 +869,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/ls/blog/tags",
+      "blogTagsListPath": "/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -877,17 +877,17 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/ls/donation",
+        "permalink": "/donation",
         "source": "@site/src/pages/donation.js"
       },
       {
         "type": "jsx",
-        "permalink": "/ls/",
+        "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/ls/markdown-page",
+        "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
@@ -897,7 +897,7 @@
       },
       {
         "type": "jsx",
-        "permalink": "/ls/temp_index",
+        "permalink": "/temp_index",
         "source": "@site/src/pages/temp_index.js"
       }
     ]

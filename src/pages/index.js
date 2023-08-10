@@ -47,7 +47,7 @@ export default function Home() {
 
 			<ImageAndText
 				title='Anleitungen, Workshops?, Wissen von uns für dich!'
-				imageUrl='/img/homepage/block-cards.svg'
+				imageUrl='/img/Block4.svg'
 				gray
 			>
 				Die Goldeimer Toolbox schafft dir einen ersten eindruck welche Toilette du brauchst.
