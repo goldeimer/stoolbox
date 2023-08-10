@@ -53,22 +53,22 @@ Werkzeugliste:
 ### Schritt-für-Schritt-Anleitung:
 
 1. Wähle einen geeigneten Standort für deine DIY Trenntrockentoillete aus und markieren den Bereich. Berücksichtige dabei Faktoren wie die Größe der Toilette, die Zugänglichkeit und die Nähe zu Strom- und ggf. Wasseranschlüssen. 
-<img alt="" src={useBaseUrl('/img/fundament.jpg')} width="200px" height="auto"/>
+<img alt="" src={useBaseUrl('/img/fundament.jpeg')} width="200px" height="auto"/>
 
 2. Stelle  sicher, dass du alle erforderlichen Genehmigungen und Baugenehmigungen hast, bevor du mit dem Bau beginnst. (Achtung!, ich Wasserschutzgebieten sind Trenntrockentoilleten nicht erlaubt)
 
 3. Bereite den Untergrund vor, indem du den Boden eben machst und eventuell eine Fundamentplatte legst.
-<img alt="" src={useBaseUrl('/img/fundament2.png')} width="200px" height="auto"/>
+<img alt="" src={useBaseUrl('/img/fundament2.jpeg')} width="200px" height="auto"/>
 
 4. Erstelle einen Bauplan und beschaffe alle erforderlichen Materialien und Werkzeuge. (Die CAD Zeichnung hier, kann dir dabei helfen)
-<img alt="" src={useBaseUrl('/img/DIYKabine2.jpg')} width="200px" height="auto"/>
+<img alt="" src={useBaseUrl('/img/DIYKabine2.png')} width="200px" height="auto"/>
 
 5. Beginne mit dem Bau der Grundstruktur der Hütte, schneide die Pfosten in die richtige länge und schneide passende Dachstrebenschlitze ein.
-<img alt="" src={useBaseUrl('/img/dach.jpg')} width="200px" height="auto"/>
+<img alt="" src={useBaseUrl('/img/dach.jpeg')} width="200px" height="auto"/>
 
 6. Befestige die Pfosten auf das Fundament oder den Boden.
 7. Baue die Wandrahmen und befestige die Wandpaneele oder die Wandverkleidung.
-<img alt="" src={useBaseUrl('/img/kabine.jpg')} width="200px" height="auto"/>
+<img alt="" src={useBaseUrl('/img/kabine.jpeg')} width="200px" height="auto"/>
 
 8. Baue das Dach, indem du die Dachsparren und das Dachmaterial installierst.
 9. Schraube das Dach auf die vier Pfosten fest.
